@@ -1,0 +1,17 @@
+{
+  "name" : "[1.12] Community Map Framework",
+  "id" : "com.github.Victoria-3-Modding-Co-op.Community-State-Framework",
+  "version" : "1.0.0",
+  "game_id" : "victoria3",
+  "picture" : null,
+  "supported_game_version" : "1.12.*",
+  "short_description" : "This is a framework to break up the base game map files for ease of modding.",
+  "tags" : [
+    "Utilities",
+    "1.12"
+  ],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
