@@ -1,0 +1,16 @@
+﻿STATE_RUTHENIA = {
+    id = 169
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x359378" "x69BAC7" "xA0531B" "xC85CD0" "xD0E061" }
+    city = "xA0531B"
+    farm = "xA0531B"
+    mine = "x69BAC7"
+    wood = "x69BAC7"
+    arable_land = 70
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 92
+        building_lead_mine = 33
+        building_logging_camp = 15
+    }
+}

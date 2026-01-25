@@ -1,0 +1,23 @@
+﻿STATE_JALISCO = {
+    id = 334
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02AE5B" "x0EE3B3" "x107001" "x13F963" "x1559EB" "x2E172F" "x374D6F" "x3B18A7" "x3F0A44" "x41E3BB" "x4CF985" "x4E396E" "x50B000" "x50B080" "x52E09C" "x65B33C" "x6CE1F2" "x6EEA68" "x80B8A5" "x829A25" "x8ABF59" "x8EA0AB" "x8FD9A9" "x907001" "x90B080" "x97CE08" "xA18CF4" "xBFDB49" "xC1F60B" "xC3A1B7" "xCE2837" "xE26CDE" "xE34EE3" "xE5730F" "xE9BCBE" }
+    traits = { "state_trait_sierra_madre_occidental" "state_trait_natural_harbors" }
+    city = "xE34EE3"
+    port = "x3F0A44"
+    farm = "x02AE5B"
+    mine = "x1559EB"
+    wood = "x4CF985"
+    arable_land = 80
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 33
+        building_logging_camp = 18
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 12
+    }
+    naval_exit_id = 3155
+}

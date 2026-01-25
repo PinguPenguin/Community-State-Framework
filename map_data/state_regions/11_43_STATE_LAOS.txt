@@ -1,0 +1,17 @@
+﻿STATE_LAOS = {
+    id = 520
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x02CE70" "x036ED6" "x0B160B" "x1957E0" "x1E6D3C" "x1F8AE4" "x21D9CC" "x2DE84E" "x30EFA0" "x3130A0" "x32A2B1" "x3E6297" "x3E70A9" "x46CCB6" "x578898" "x61478F" "x625009" "x6BA60C" "x6C400A" "x70B3CE" "x7E2810" "x874BED" "x899047" "x89F1F9" "x8BFF1F" "x8D0FE2" "x8D4D75" "x94CA13" "x9751B6" "x987E5B" "x9EFC82" "xB07020" "xB0B020" "xB0EF20" "xB0EFA0" "xB246DC" "xB9A4C0" "xC8AFB5" "xCD2D5D" "xDA6CAB" "xDE87E1" "xDFCAA8" "xE8A817" "xEAEF3A" "xED7937" "xF03D75" "xF3D3B6" }
+    traits = { "state_trait_indochinese_forest" "state_trait_mekong_river" }
+    city = "x1E6D3C"
+    farm = "xC8AFB5"
+    mine = "xF03D75"
+    wood = "xB0EF20"
+    arable_land = 40
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_silk_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_iron_mine = 36
+        building_logging_camp = 23
+    }
+}

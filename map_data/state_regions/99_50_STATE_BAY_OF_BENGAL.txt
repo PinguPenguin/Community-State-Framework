@@ -1,0 +1,4 @@
+﻿STATE_BAY_OF_BENGAL = {
+    id = 3050
+    provinces = { "x5CFAFA" }
+}

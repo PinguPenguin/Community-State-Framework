@@ -1,0 +1,24 @@
+﻿STATE_TOGO = {
+    id = 221
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x162D0C" "x406D9B" "x40E9E9" "x51AD34" "x778011" "x87D283" "x8D0A5A" "x938637" "xAF65D3" "xD10A98" "xD4B5FF" "xD6D784" "xE35197" "xE8CC9C" "xEDF00C" }
+    prime_land = { "x406D9B" }
+    traits = { "state_trait_malaria" }
+    city = "x87D283"
+    port = "xD4B5FF"
+    farm = "x406D9B"
+    mine = "x162D0C"
+    wood = "xE8CC9C"
+    arable_land = 80
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 44
+        building_logging_camp = 11
+        building_fishing_wharf = 12
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3091
+}

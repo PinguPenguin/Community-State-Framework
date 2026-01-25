@@ -1,0 +1,23 @@
+﻿STATE_WINDWARD_COAST = {
+    id = 205
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x002050" "x14F5B1" "x1FB6E1" "x2040D0" "x21F036" "x24BC7F" "x26FAEA" "x33CB39" "x445584" "x563E62" "x6ADBC0" "x6BCF19" "x6D828F" "x77E7F8" "x7864CD" "x7D3EA7" "x85E930" "x8A1594" "x8D740C" "x8DE591" "x8F42EF" "x93D980" "x9E735D" "x9F40D0" "xA0BF50" "xB322E7" "xB75AF3" "xBD503A" "xC9B112" "xE04050" "xE847EF" "xEBEEEF" "xF3164C" "xFA2C26" }
+    traits = { "state_trait_malaria" }
+    city = "x2040D0"
+    port = "xB75AF3"
+    farm = "x8DE591"
+    mine = "xB322E7"
+    wood = "x7D3EA7"
+    arable_land = 70
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_logging_camp = 15
+        building_fishing_wharf = 6
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 22
+    }
+    naval_exit_id = 3091
+}

@@ -1,0 +1,16 @@
+﻿STATE_BAHAMAS = {
+    id = 347
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x4EBC79" "x686279" "x72C072" "x7A6FA3" }
+    city = "x686279"
+    port = "x72C072"
+    farm = "x4EBC79"
+    wood = "x4EBC79"
+    mine = "x4EBC79"
+    arable_land = 10
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3061
+}

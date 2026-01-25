@@ -1,0 +1,16 @@
+﻿STATE_QUETTA = {
+    id = 2009
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1910AD" "x1DDD4D" "x34A39B" "x3C3D7F" "x454FE3" "x4AAAC0" "x5E7221" "x6EA076" "x6F000D" "x7CA0E0" "x8BB146" "xB8655C" "xC13040" "xDB0F57" }
+    city = "x6F000D"
+    farm = "x6F000D"
+    mine = "x6F000D"
+    wood = "x6F000D"
+    arable_land = 42
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" }
+    capped_resources = {
+        building_iron_mine = 4
+        building_lead_mine = 8
+        building_logging_camp = 2
+    }
+}

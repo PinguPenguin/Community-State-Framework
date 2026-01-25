@@ -1,0 +1,23 @@
+﻿STATE_LARISTAN = {
+    id = 415
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0170A0" "x1BC9CB" "x2F832B" "x350DED" "x36F270" "x3FA81D" "x407020" "x42FC41" "x517637" "x75B0BE" "x8070A0" "x876E91" "x922EDA" "x9DF415" "xA54E11" "xAAA21C" "xB67223" "xB80596" "xF14D58" }
+    traits = { "state_trait_natural_harbors" }
+    city = "xA54E11"
+    port = "x350DED"
+    farm = "x36F270"
+    mine = "x407020"
+    wood = "x8070A0"
+    arable_land = 30
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_opium_plantation" "building_dye_plantation" "building_cotton_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 11
+        building_fishing_wharf = 10
+        building_logging_camp = 1
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 40
+    }
+    naval_exit_id = 3046
+}

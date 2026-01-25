@@ -1,0 +1,21 @@
+﻿STATE_YANGHO = {
+    id = 690
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x34B782" "x8ACAAA" "xA48A8B" "xAE0221" "xB0D000" "xB0D080" "xBC0C5A" "xC81C12" "xD42CA8" "xF09080" "xF91D98" }
+    traits = { "state_trait_honam_plain" }
+    city = "xF91D98"
+    port = "x8ACAAA"
+    farm = "x8ACAAA"
+    mine = "xB0D000"
+    wood = "x34B782"
+    arable_land = 110
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_coal_mine = 10
+        building_sulfur_mine = 10
+        building_logging_camp = 7
+        building_whaling_station = 2
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3058
+}

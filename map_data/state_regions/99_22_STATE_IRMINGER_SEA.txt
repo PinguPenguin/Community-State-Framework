@@ -1,0 +1,4 @@
+﻿STATE_IRMINGER_SEA = {
+    id = 3022
+    provinces = { "x16FAFA" }
+}

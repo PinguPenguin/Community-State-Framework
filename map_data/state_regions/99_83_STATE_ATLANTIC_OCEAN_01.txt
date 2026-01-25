@@ -1,0 +1,4 @@
+﻿STATE_ATLANTIC_OCEAN_01 = {
+    id = 3083
+    provinces = { "xD55EAD" }
+}

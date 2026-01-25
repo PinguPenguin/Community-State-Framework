@@ -1,0 +1,4 @@
+﻿STATE_WESTERN_CARIBBEAN_SEA = {
+    id = 3026
+    provinces = { "x1FC9E5" }
+}

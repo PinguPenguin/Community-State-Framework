@@ -1,0 +1,27 @@
+﻿STATE_WESTERN_CUBA = {
+    id = 350
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x4DD008" "x61FC10" "xB325C7" "xDCAB5D" "xF3F2C9" "xFCDEED" }
+    traits = { "state_trait_havana_harbor" "state_trait_tierra_roja" }
+    city = "xFCDEED"
+    port = "x61FC10"
+    farm = "x4DD008"
+    mine = "xB325C7"
+    wood = "xF3F2C9"
+    arable_land = 92
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_fishing_wharf = 7
+        building_sulfur_mine = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 10
+    }
+    naval_exit_id = 3061
+}

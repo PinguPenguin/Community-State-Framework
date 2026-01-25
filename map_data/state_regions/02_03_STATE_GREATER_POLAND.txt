@@ -1,0 +1,17 @@
+﻿STATE_GREATER_POLAND = {
+    id = 156
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0E40DA" "x1CB894" "x1F6F99" "x24BBED" "x29408F" "x2F0D92" "x471A61" "x577EE4" "x57A53D" "x5FF022" "x6000DF" "x738072" "x8FE2DB" "x955F09" "x9FEDC5" "xA03316" "xA3A3A9" "xA7B86B" "xAB3C62" "xC02B8C" "xC061A0" "xC0E0A0" "xD0A0E0" "xDE06BA" }
+    city = "xA03316"
+    farm = "x9FEDC5"
+    mine = "xc02B8C"
+    wood = "xC0E0A0"
+    arable_land = 132
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 84
+        building_iron_mine = 48
+        building_lead_mine = 24
+        building_logging_camp = 9
+    }
+}

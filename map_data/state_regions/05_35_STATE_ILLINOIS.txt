@@ -1,0 +1,17 @@
+﻿STATE_ILLINOIS = {
+    id = 299
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00A080" "x0212BC" "x108040" "x1B1B01" "x22BBD7" "x26D283" "x2938A5" "x2B0E33" "x2FBF72" "x33B258" "x34036E" "x3FEEB5" "x445F91" "x4A94CA" "x4E0162" "x50C040" "x543986" "x585A65" "x67EB18" "x6B3BE8" "x6D1F7A" "x6D8AAA" "x6F02DA" "x746E6F" "x7514E0" "x7A2E59" "x806000" "x908040" "x977A71" "x999D9F" "x9EA280" "xA36021" "xA53D3B" "xAD5337" "xB90E0D" "xBCB645" "xBD8B8B" "xCD3BFC" "xD998BB" "xEB7340" "xF68D89" "xF82338" }
+    traits = { "state_trait_mississippi_river" }
+    city = "xF68D89"
+    farm = "x1B1B01"
+    mine = "x4E0162"
+    wood = "xAD5337"
+    arable_land = 270
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_lead_mine = 90
+        building_logging_camp = 22
+    }
+}

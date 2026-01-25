@@ -1,0 +1,17 @@
+﻿STATE_CORSICA = {
+    id = 81
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x396B5C" "x706E78" "xEF4020" }
+    city = "xEF4020"
+    port = "x706E78"
+    farm = "x396B5C"
+    wood = "xEF4020"
+    mine = "xEF4020"
+    arable_land = 10
+    arable_resources = { "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_fishing_wharf = 7
+    }
+    naval_exit_id = 3032
+}

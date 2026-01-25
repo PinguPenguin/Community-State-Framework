@@ -1,0 +1,18 @@
+﻿STATE_MADEIRA = {
+    id = 1012
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x385719" "x4D5156" }
+    traits = { "state_trait_volcanic_soil" }
+    city = "x4D5156"
+    port = "x385719"
+    farm = "x385719"
+    mine = "x385719"
+    wood = "x385719"
+    arable_land = 9
+    arable_resources = { "building_wheat_farm" "building_coffee_plantation" "building_cotton_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 3
+    }
+    naval_exit_id = 3089
+}

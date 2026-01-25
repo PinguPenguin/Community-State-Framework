@@ -1,0 +1,17 @@
+﻿STATE_DARFUR = {
+    id = 184
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x010112" "x011B9B" "x04709D" "x077DC4" "x084452" "x0BA549" "x0D82D5" "x10E778" "x11D060" "x148DA5" "x14FA53" "x17D9A6" "x18E2B5" "x19839D" "x1D37F3" "x2E3B87" "x2F8CDB" "x305FFB" "x30C844" "x35FA3C" "x3621AB" "x36EF31" "x37D51A" "x38F470" "x3B2BDC" "x3D369E" "x41753A" "x442107" "x4586BC" "x46840A" "x46ED52" "x485733" "x489122" "x4EB670" "x4EF5BA" "x4FC3BD" "x505160" "x513188" "x527CA4" "x55777E" "x5AE385" "x5C6F68" "x5E7EEA" "x5E802B" "x646AA7" "x72ACD5" "x7A5770" "x7C6AEF" "x7E47BC" "x81C138" "x8373D4" "x83E20C" "x85CCF5" "x88AA5B" "x89EB91" "x8C8A7D" "x9396AE" "x93A35B" "x93B32F" "x94ED1A" "x960309" "x96E1C9" "x9AB09C" "x9C55FE" "xAA0224" "xAB96CA" "xAF05DC" "xAF1E1F" "xB319F8" "xB504CF" "xB6298D" "xBC054B" "xBD58DE" "xBEFBD1" "xCAC2D6" "xCC7B24" "xCD6EAD" "xCF1CDF" "xD0C01E" "xD157C6" "xD58989" "xD5BA32" "xD6250A" "xD6AF7B" "xD84C2A" "xDA1631" "xDAD586" "xDE9636" "xE1085B" "xE8B9DA" "xE9857F" "xE9E506" "xEA728B" "xF0883A" "xF1FBFF" "xF43EA4" }
+    impassable = { "x72ACD5" "x489122" "x646AA7" "x0D82D5" "xB504CF" "xBEFBD1" "x36EF31" "x30C844" "xB319F8" "x85CCF5" "x4EB670" "xD58989" "xCD6EAD" "x8373D4" "xF1FBFF" "x17D9A6" "x4586BC" }
+    traits = { "state_trait_sahel" }
+    city = "x89EB91"
+    farm = "x96E1C9"
+    mine = "xF0883A"
+    wood = "x3B2BDC"
+    arable_land = 20
+    arable_resources = { "building_livestock_ranch" }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+}

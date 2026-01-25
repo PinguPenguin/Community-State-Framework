@@ -1,0 +1,20 @@
+﻿STATE_ORISSA = {
+    id = 471
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0CE6EA" "x11D169" "x1504AD" "x1622F2" "x22B96B" "x30C2D5" "x323B8A" "x38A6E6" "x404EEA" "x5031A0" "x597E99" "x5BC5C8" "xA0A8E0" "xA15F01" "xA2EF24" "xB07FDD" "xB6E5C1" "xBAE4B3" "xBB9552" "xCCE5B7" "xD031A0" "xFBF096" "xFFBC41" }
+    prime_land = { "xD031A0" "x597E99" "xA2EF24" "xFFBC41" "x38A6E6" "xBB9552" }
+    city = "x597E99"
+    port = "xBB9552"
+    farm = "x597E99"
+    mine = "x22B96B"
+    wood = "xB07FDD"
+    arable_land = 83
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_silk_plantation" }
+    capped_resources = {
+        building_logging_camp = 15
+        building_iron_mine = 36
+        building_coal_mine = 21
+        building_fishing_wharf = 7
+    }
+    naval_exit_id = 3050
+}

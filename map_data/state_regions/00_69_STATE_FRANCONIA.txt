@@ -1,0 +1,15 @@
+﻿STATE_FRANCONIA = {
+    id = 72
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0B0DBA" "x51C0A0" "x648AD1" "x9040A0" "xA55FB1" "xD041A0" "xD0C0A0" "xF91154" }
+    city = "xD0C0A0"
+    farm = "x648AD1"
+    mine = "xF91154"
+    wood = "x51C0A0"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 30
+        building_logging_camp = 17
+    }
+}

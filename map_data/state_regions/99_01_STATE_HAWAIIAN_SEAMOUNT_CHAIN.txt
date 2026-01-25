@@ -1,0 +1,4 @@
+﻿STATE_HAWAIIAN_SEAMOUNT_CHAIN = {
+    id = 3001
+    provinces = { "x340EEC" }
+}

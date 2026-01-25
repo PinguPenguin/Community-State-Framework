@@ -1,0 +1,19 @@
+﻿STATE_WALES = {
+    id = 17
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x2020C0" "x20A040" "x633EF5" "x70D92B" "x775D55" "xA02040" "xA0A040" "xA2308A" "xB7FC74" }
+    traits = { "state_trait_south_wales_valleys" }
+    city = "x2020C0"
+    port = "xA2308A"
+    farm = "xB7FC74"
+    mine = "x20A040"
+    wood = "xA02040"
+    arable_land = 40
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 80
+        building_logging_camp = 14
+        building_fishing_wharf = 4
+    }
+    naval_exit_id = 3030
+}

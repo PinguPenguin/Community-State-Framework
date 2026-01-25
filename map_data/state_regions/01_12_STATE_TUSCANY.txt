@@ -1,0 +1,20 @@
+﻿STATE_TUSCANY = {
+    id = 88
+    subsistence_building = "building_subsistence_farm"
+    traits = { "state_trait_great_terroir" }
+    provinces = { "x32BA1A" "x6A7662" "x7080A0" "xB04020" "xF12431" "xFAFCD4" }
+    city = "xFAFCD4"
+    port = "x6A7662"
+    farm = "xF12431"
+    mine = "xB04020"
+    wood = "xB04020"
+    arable_land = 60
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 60
+        building_sulfur_mine = 40
+        building_logging_camp = 11
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3032
+}

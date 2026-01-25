@@ -1,0 +1,17 @@
+﻿STATE_CRETE = {
+    id = 122
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0B9BBE" "x6010A0" }
+    city = "x0B9BBE"
+    port = "x6010A0"
+    farm = "x6010A0"
+    mine = "x6010A0"
+    wood = "x6010A0"
+    arable_land = 8
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3034
+}

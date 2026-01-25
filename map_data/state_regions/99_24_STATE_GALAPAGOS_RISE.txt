@@ -1,0 +1,4 @@
+﻿STATE_GALAPAGOS_RISE = {
+    id = 3024
+    provinces = { "x0D61DC" }
+}

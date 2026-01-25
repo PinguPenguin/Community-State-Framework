@@ -1,0 +1,17 @@
+﻿STATE_POITOU = {
+    id = 36
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x19234B" "x3F74AF" "x50A040" "x9401C7" "xD020C0" "xD0A040" "xDD4DD0" "xE269A3" }
+    city = "xD020C0"
+    port = "xD0A040"
+    farm = "xE269A3"
+    mine = "x9401C7"
+    wood = "xD0A040"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 5
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3029
+}

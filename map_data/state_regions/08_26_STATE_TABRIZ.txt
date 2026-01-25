@@ -1,0 +1,17 @@
+﻿STATE_TABRIZ = {
+    id = 422
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x018E23" "x04D39A" "x102BCB" "x211111" "x2281CB" "x264C9D" "x2B1395" "x2C653E" "x41B0E0" "x43A850" "x592890" "x6050A0" "x63528E" "x780DBA" "x97DFB2" "xA70D55" "xBD5DC4" "xBF30DF" "xC277FE" "xC5BF2C" "xC8C637" "xCA2489" "xCC139E" "xCEA2AE" "xD82CB4" "xDC46D1" "xFF325A" }
+    city = "x2B1395"
+    farm = "x780DBA"
+    mine = "xC277FE"
+    wood = "xCA2489"
+    arable_land = 110
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_vineyard" "building_tobacco_plantation" "building_opium_plantation" "building_dye_plantation" }
+    capped_resources = {
+        building_coal_mine = 20
+        building_iron_mine = 20
+        building_lead_mine = 25
+        building_logging_camp = 5
+    }
+}

@@ -1,0 +1,18 @@
+﻿STATE_WEST_SWITZERLAND = {
+    id = 60
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x117FE0" "x508060" "x7ACC0B" "x9041E0" "x9080E0" "xA042B5" "xD08060" "xE51E78" "xEBF5B1" "xED07F7" }
+    traits = { "state_trait_alps_mountains" "state_trait_rhine_river" }
+    city = "xED07F7"
+    farm = "xD08060"
+    mine = "x9080E0"
+    wood = "xA042B5"
+    arable_land = 50
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 48
+        building_iron_mine = 24
+        building_lead_mine = 24
+        building_logging_camp = 6
+    }
+}

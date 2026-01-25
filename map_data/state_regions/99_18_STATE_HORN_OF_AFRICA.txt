@@ -1,0 +1,4 @@
+﻿STATE_HORN_OF_AFRICA = {
+    id = 3018
+    provinces = { "x2B5CB8" }
+}

@@ -1,0 +1,21 @@
+﻿STATE_BEIRA = {
+    id = 104
+    subsistence_building = "building_subsistence_farm"
+    traits = { "state_trait_great_terroir" }
+    provinces = { "x3020A3" "x9238AD" "xA0F6EC" "xE24C15" "xE415AF" "xF92B7F" }
+    city = "xA0F6EC"
+    port = "xA0F6EC"
+    farm = "xF92B7F"
+    mine = "x9238AD"
+    wood = "xE24C15"
+    arable_land = 65
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_lead_mine = 6
+        building_iron_mine = 3
+        building_gold_mine = 2
+        building_logging_camp = 5
+        building_fishing_wharf = 4
+    }
+    naval_exit_id = 3029
+}

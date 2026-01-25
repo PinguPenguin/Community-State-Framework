@@ -1,0 +1,20 @@
+﻿STATE_LURISTAN = {
+    id = 423
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x0170E0" "x01B2D8" "x202B10" "x241E05" "x2EA8EE" "x349E91" "x38B60D" "x4FD77D" "x5D400F" "x5E4B82" "x78B5D4" "x7D89AA" "x80B0E0" "x9963BE" "xBC8ADC" "xBDD368" "xC3A894" "xC82A67" "xFFA8FA" }
+    traits = { "state_trait_zagros_mountains" }
+    city = "x38B60D"
+    farm = "xBDD368"
+    mine = "xC82A67"
+    wood = "x2EA8EE"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_dye_plantation" "building_silk_plantation" "building_vineyard" "building_tobacco_plantation" }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    capped_resources = {
+        building_logging_camp = 3
+        building_iron_mine = 2
+    }
+}

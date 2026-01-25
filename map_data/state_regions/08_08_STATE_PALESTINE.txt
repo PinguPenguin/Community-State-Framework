@@ -1,0 +1,19 @@
+﻿STATE_PALESTINE = {
+    id = 406
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0EC997" "x136A0C" "x365E8F" "x605060" "x60D060" "xC9CBC0" "xE05060" "xE0D060" }
+    city = "xC9CBC0"
+    port = "x605060"
+    farm = "x60D060"
+    mine = "xE05060"
+    wood = "x365E8F"
+    arable_land = 30
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_logging_camp = 5
+        building_fishing_wharf = 4
+		building_sulfur_mine = 9
+    }
+    naval_exit_id = 3034
+}

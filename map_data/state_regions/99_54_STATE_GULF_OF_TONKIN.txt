@@ -1,0 +1,4 @@
+﻿STATE_GULF_OF_TONKIN = {
+    id = 3054
+    provinces = { "x75C8C8" }
+}

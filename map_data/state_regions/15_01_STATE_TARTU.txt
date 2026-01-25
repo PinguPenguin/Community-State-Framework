@@ -1,0 +1,17 @@
+﻿STATE_TARTU = {
+    id = 802
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0121A0" "x01A021" "x297D54" "x6D20F8" "x6D38BF" "x8487D5" "xB9FF4E" "xBCF2BB" "xBF6060" "xD5B5D2" }
+    city = "xBCF2BB"
+    port = "x8487D5"
+    farm = "xB9FF4E"
+    mine = "x297D54"
+    wood = "xBF6060"
+    arable_land = 18
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 7
+        building_fishing_wharf = 7
+    }
+    naval_exit_id = 3000
+}

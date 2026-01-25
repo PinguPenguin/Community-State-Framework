@@ -1,0 +1,24 @@
+﻿STATE_GUINEA = {
+    id = 219
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x04FDE5" "x08502B" "x08E1DB" "x0E47FB" "x12A380" "x146701" "x14D406" "x168505" "x17E20B" "x181E0E" "x18F33E" "x1CBF4C" "x2000D0" "x227115" "x29C6D0" "x2BB939" "x3070C0" "x324AE0" "x339CE8" "x366D0F" "x37ABFC" "x380214" "x3D0B76" "x482B8D" "x5512AF" "x5A627D" "x5CB7F3" "x5D1375" "x63F919" "x6B6FCF" "x6C8F72" "x6D295A" "x7062D6" "x7486F1" "x7B55A9" "x7EFED6" "x8140A0" "x83B875" "x8F0D6B" "x91AD7F" "x91E57E" "x97F797" "x9933B7" "xA04050" "xA4C378" "xAAA0DE" "xAEF471" "xAFBE88" "xB7BFEE" "xCB2DDE" "xCC84F1" "xD00D92" "xD52D82" "xE02F10" "xEB469A" "xEE9F2D" "xF4618A" "xF57E66" }
+    traits = { "state_trait_malaria" "state_trait_niger_river" }
+    prime_land = { "x37ABFC" "x5512AF" "xD52D82" "x7486F1" }
+    city = "x2000D0"
+    port = "x0E47FB"
+    farm = "x7486F1"
+    mine = "x366D0F"
+    wood = "x380214"
+    arable_land = 80
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 13
+        building_fishing_wharf = 10
+        building_whaling_station = 2
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 28
+    }
+    naval_exit_id = 3088
+}

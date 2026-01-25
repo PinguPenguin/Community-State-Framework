@@ -1,0 +1,28 @@
+﻿STATE_ACEH = {
+    id = 547
+    subsistence_building = "building_subsistence_farm"
+    traits = { "state_trait_natural_harbors" }
+    provinces = { "x07B7F0" "x0DDF49" "x1C8420" "x30AED9" "x388ABB" "x4544B1" "x4F7793" "x5BDF4D" "x60E050" "x616150" "x7E3D68" "x9A7E0B" "xA0DFD0" "xAB0290" "xBE17D2" "xC266CF" "xC5091B" "xD4118B" "xD5A22C" "xE3CB2E" "xEB815E" }
+    city = "x7E3D68"
+    port = "x1C8420"
+    farm = "x9A7E0B"
+    mine = "xEB815E"
+    wood = "x07B7F0"
+    arable_land = 40
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_sulfur_mine = 20
+        building_logging_camp = 14
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 18
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 25
+    }
+    naval_exit_id = 3051
+}

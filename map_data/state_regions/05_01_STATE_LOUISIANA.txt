@@ -1,0 +1,24 @@
+﻿STATE_LOUISIANA = {
+    id = 266
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0CF7A4" "x131940" "x13B0C7" "x18D465" "x1BF244" "x216122" "x2BEBAE" "x371B1B" "x39D7A2" "x403095" "x4FA3C4" "x68C793" "x71BEC1" "x7EF4B8" "x86BC13" "x9A7554" "x9E96B6" "xA4EE3C" "xAC4818" "xBF79F5" "xC07080" "xC0F080" "xC1273E" "xC51912" "xC62139" "xD658E7" "xEE0FAA" "xEFB99C" }
+    traits = { "state_trait_mississippi_river" }
+    city = "xC1273E"
+    port = "x9A7554"
+    farm = "x18D465"
+    mine = "xEE0FAA"
+    wood = "x2BEBAE"
+    arable_land = 120
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_coal_mine = 24
+        building_sulfur_mine = 32
+        building_logging_camp = 13
+        building_fishing_wharf = 12
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3060
+}

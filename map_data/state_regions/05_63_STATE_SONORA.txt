@@ -1,0 +1,24 @@
+﻿STATE_SONORA = {
+    id = 327
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x01D099" "x03709A" "x0A3CB6" "x0E6844" "x0F641B" "x12D3FB" "x14EE17" "x1A4988" "x27B5D7" "x2DAABF" "x421F6A" "x4271A2" "x5238CD" "x54B1CE" "x575437" "x60D0C0" "x6DA277" "x7036C3" "x7D0279" "x81A80B" "x8646F0" "x8BD05C" "x9A8A72" "x9FBBA9" "xA2A7AB" "xAF76BB" "xBB07D6" "xC699E3" "xCC0672" "xDF50C0" "xE51C65" "xE8078D" "xE9BBD3" "xF03A69" }
+    traits = { "state_trait_sierra_madre_occidental" }
+    city = "x81A80B"
+    port = "xC699E3"
+    farm = "x421F6A"
+    mine = "x9FBBA9"
+    wood = "x421F6A"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 27
+        building_logging_camp = 4
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 6
+    }
+    naval_exit_id = 3153
+}

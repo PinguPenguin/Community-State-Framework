@@ -1,0 +1,4 @@
+﻿STATE_IRISH_SEA = {
+    id = 3030
+    provinces = { "x1B77CD" }
+}

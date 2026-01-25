@@ -1,0 +1,4 @@
+﻿STATE_MICRONESIAN_SEA = {
+    id = 3002
+    provinces = { "x341ABA" }
+}

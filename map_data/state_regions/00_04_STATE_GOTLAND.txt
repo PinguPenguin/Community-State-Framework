@@ -1,0 +1,18 @@
+﻿STATE_GOTLAND = {
+    id = 5
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x21C0E0" "xF93B61" }
+    traits = { "state_trait_good_soils" }
+    city = "xF93B61"
+    port = "x21C0E0"
+    farm = "xF93B61"
+    mine = "xF93B61"
+    wood = "xF93B61"
+    arable_land = 3
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 3
+    }
+    naval_exit_id = 3000
+}

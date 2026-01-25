@@ -1,0 +1,17 @@
+﻿STATE_ABRUZZO = {
+    id = 85
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0AE57A" "x0D3025" "x31C0A0" "xA6F611" "xF34DC0" }
+    city = "x31C0A0"
+    port = "x0AE57A"
+    farm = "xA6F611"
+    mine = "x0D3025"
+    wood = "x31C0A0"
+    arable_land = 25
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 9
+        building_fishing_wharf = 7
+    }
+    naval_exit_id = 3033
+}

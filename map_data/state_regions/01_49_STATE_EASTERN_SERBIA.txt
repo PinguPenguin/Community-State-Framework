@@ -1,0 +1,17 @@
+﻿STATE_EASTERN_SERBIA = {
+    id = 121
+    subsistence_building = "building_subsistence_farm"
+    traits = { "state_trait_danube_river" }
+    provinces = { "x18B761" "x334B53" "x3B6092" "x40AF95" "x62A730" "x74F1F4" "x9061A0" "xAC083C" "xD021E0" }
+    city = "x334B53"
+    farm = "x62A730"
+    mine = "x74F1F4"
+    wood = "xAC083C"
+    arable_land = 45
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 30
+        building_lead_mine = 12
+        building_logging_camp = 10
+    }
+}

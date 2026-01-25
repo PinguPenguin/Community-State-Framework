@@ -1,0 +1,18 @@
+﻿STATE_KERMAN = {
+    id = 2003
+    traits = { "state_trait_bam_narmashir" }
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x0D4D86" "x124E6F" "x159AB3" "x177599" "x1E9374" "x2E09CE" "x2E57B1" "x39E6FA" "x48E7B8" "x5293C9" "x5D2CF2" "x5E1734" "x648853" "x6796CE" "x6DDC3B" "x75053B" "x7FB23D" "x80F020" "x83424B" "x8D0125" "x901598" "x9869E8" "x99F186" "xAFF45C" "xB0513F" "xB55662" "xCBE9C4" "xCCDD76" "xD4E165" "xD73959" "xE862E9" "xE9C86A" "xEADB0F" "xEB9357" "xF24BDE" "xF4E18B" "xF6D834" "xF8EBE8" "xFF73DA" }
+    city = "x901598"
+    farm = "x901598"
+    mine = "x901598"
+    wood = "x901598"
+    arable_land = 20
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_opium_plantation" "building_dye_plantation" "building_cotton_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 14
+        building_iron_mine = 40
+        building_sulfur_mine = 22
+        building_logging_camp = 2
+    }
+}

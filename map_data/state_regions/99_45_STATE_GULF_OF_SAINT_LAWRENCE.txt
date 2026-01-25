@@ -1,0 +1,4 @@
+﻿STATE_GULF_OF_SAINT_LAWRENCE = {
+    id = 3045
+    provinces = { "x74FBFB" }
+}

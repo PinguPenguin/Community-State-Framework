@@ -1,0 +1,17 @@
+﻿STATE_FORMOSA = {
+    id = 510
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x44797F" "x6645CF" "x6DAB21" "x7070E0" "x9A5066" "xAEA2D8" "xBB27F6" "xE73B31" }
+    city = "x6DAB21"
+    port = "x44797F"
+    farm = "xAEA2D8"
+    mine = "xE73B31"
+    wood = "xE73B31"
+    arable_land = 80
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 7
+        building_fishing_wharf = 13
+    }
+    naval_exit_id = 3056
+}

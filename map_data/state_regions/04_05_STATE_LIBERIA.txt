@@ -1,0 +1,23 @@
+﻿STATE_LIBERIA = {
+    id = 210
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0075FC" "x4D5020" "x55657D" "x56D35D" "x728792" "x7E0445" "x7E9BF6" "x80EA03" "x8616D7" "xA17EB9" "xA94E67" "xC730B8" "xDF8050" "xF4E268" "xFA64C3" "xFF3CB6" }
+    traits = { "state_trait_malaria" }
+    city = "x0075FC"
+    port = "xDF8050"
+    farm = "xA94E67"
+    mine = "x0075FC"
+    wood = "x4D5020"
+    arable_land = 70
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 33
+        building_logging_camp = 11
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3088
+}

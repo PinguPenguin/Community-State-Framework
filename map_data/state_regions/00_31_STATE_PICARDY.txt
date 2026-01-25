@@ -1,0 +1,18 @@
+﻿STATE_PICARDY = {
+    id = 34
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x075199" "x10A0C0" "x7040A0" "xC4C61A" "xCF1F6D" "xE0A624" }
+    traits = { "state_trait_good_soils" }
+    city = "x10A0C0"
+    port = "xE0A624"
+    farm = "xC4C61A"
+    mine = "xC4C61A"
+    wood = "xC4C61A"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_fishing_wharf = 1
+    }
+    naval_exit_id = 3028
+}

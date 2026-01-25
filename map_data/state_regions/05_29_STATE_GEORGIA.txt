@@ -1,0 +1,17 @@
+﻿STATE_GEORGIA = {
+    id = 294
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x13B302" "x14A138" "x169E1F" "x19EFC6" "x21E256" "x391CFA" "x39E367" "x3D2D7D" "x407040" "x40F040" "x476DE4" "x4EA3CA" "x56DBDA" "x69FAA9" "x6D8A9F" "x7B295A" "x802080" "x98A030" "x9BEA44" "xA496A6" "xA86682" "xABCC5E" "xB3D9D8" "xBDB2BA" "xBE8916" "xC07040" "xC2859C" "xCB1A53" "xCD4C42" "xD66E1C" "xE2E34A" "xE631D3" "xE933F3" "xEE9338" "xF0CB48" "xFCECD3" "xFD85D7" }
+    city = "xCD4C42"
+    port = "x13B302"
+    farm = "xABCC5E"
+    mine = "x169E1F"
+    wood = "xCB1A53"
+    arable_land = 180
+    arable_resources = { "building_rice_farm" "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_dye_plantation" }
+    capped_resources = {
+        building_logging_camp = 20
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3067
+}

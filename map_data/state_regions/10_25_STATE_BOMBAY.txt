@@ -1,0 +1,22 @@
+﻿STATE_BOMBAY = {
+    id = 477
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x052B29" "x1131A0" "x11B0A0" "x187C37" "x195332" "x1B071A" "x1C8B97" "x2D4B90" "x33E560" "x3E5505" "x405FB4" "x40CE40" "x42ACA6" "x47EE55" "x4D118A" "x4F5C91" "x51F0A0" "x53A379" "x5B30D1" "x6CC5CE" "x7629BF" "x9031A0" "x90B021" "xB0D0E0" "xB863FE" "xC9CD8E" "xCC722D" "xCF3817" "xD04F5D" "xD070A0" "xD4CACE" "xD6660F" "xDDFDE6" "xE01853" "xE73C3C" "xEBD7BE" "xEBE18C" "xED0654" "xF8B0CF" }
+    prime_land = { x51F0A0 }
+    traits = { "state_trait_natural_harbors" "state_trait_western_ghats" }
+    city = "xB0D0E0"
+    port = "x51F0A0"
+    farm = "x4D118A"
+    mine = "xEBD7BE"
+    wood = "x42ACA6"
+    arable_land = 400
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_gold_mine = 3
+        building_logging_camp = 17
+        building_fishing_wharf = 12
+        building_coal_mine = 12
+        building_iron_mine = 23
+    }
+    naval_exit_id = 3048
+}

@@ -1,0 +1,15 @@
+﻿STATE_FRANCHE_COMTE = {
+    id = 42
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x3D8EF9" "x700060" "xA9D961" "xB000E0" "xCF46D1" "xF00060" }
+    city = "xCF46D1"
+    farm = "xB000E0"
+    mine = "xF00060"
+    wood = "xCF46D1"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 20
+        building_logging_camp = 9
+    }
+}

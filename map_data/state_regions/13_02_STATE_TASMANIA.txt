@@ -1,0 +1,26 @@
+﻿STATE_TASMANIA = {
+    id = 1022
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x05B74C" "x0E4E0B" "x111FE6" "x114030" "x21D238" "x22A709" "x3BE014" "x48D6CE" "x4BBCDF" "x536123" "x5B6491" "x63CEB5" "x9088C7" "x97975E" "x9AD48A" "xABB52D" "xBA7909" "xBB312B" "xCC29B4" "xEBABAC" "xEC439A" }
+    traits = { "state_trait_tasmanian_rainforest" }
+    city = "x4BBCDF"
+    port = "x9088C7"
+    farm = "xEC439A"
+    mine = "x05B74C"
+    wood = "xBB312B"
+    arable_land = 15
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_sugar_plantation" "building_opium_plantation" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_lead_mine = 15
+        building_logging_camp = 8
+        building_whaling_station = 2
+        building_fishing_wharf = 6
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 6
+    }
+    naval_exit_id = 3122
+}

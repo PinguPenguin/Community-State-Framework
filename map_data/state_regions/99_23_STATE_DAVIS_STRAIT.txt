@@ -1,0 +1,4 @@
+﻿STATE_DAVIS_STRAIT = {
+    id = 3023
+    provinces = { "x6DFBFB" }
+}

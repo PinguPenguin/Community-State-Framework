@@ -1,0 +1,16 @@
+﻿STATE_SOUTHERN_TRANSYLVANIA = {
+    id = 170
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x10E29E" "x306060" "x457B5F" "x51E0A0" "x7686F7" "x90E5C8" "xC17759" "xD061A0" "xD0E021" }
+    city = "xC17759"
+    farm = "xD061A0"
+    mine = "x51E0A0"
+    wood = "x90E5C8"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 45
+        building_lead_mine = 45
+        building_logging_camp = 17
+    }
+}

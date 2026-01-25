@@ -1,0 +1,4 @@
+﻿STATE_ENGLISH_CHANNEL = {
+    id = 3028
+    provinces = { "x15C8C8" }
+}

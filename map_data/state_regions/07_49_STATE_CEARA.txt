@@ -1,0 +1,23 @@
+﻿STATE_CEARA = {
+    id = 661
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x032EA0" "x0A925F" "x0CB7A9" "x0DFF9A" "x140E0C" "x23A1AB" "x2B8A36" "x3AE396" "x469A7C" "x4C763A" "x50BC85" "x510F08" "x67D67F" "x72A418" "x835C1F" "x85E12F" "x915F53" "x9C9F0B" "xA202FC" "xA28EF1" "xA6BA83" "xBE1280" "xCB19E2" "xD54255" "xD95159" "xE04111" "xE29237" "xED5CF9" }
+    traits = { state_trait_sertao }
+    city = "x140E0C"
+    port = "xA6BA83"
+    farm = "xED5CF9"
+    mine = "x469A7C"
+    wood = "x4C763A"
+    arable_land = 30
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 18
+        building_logging_camp = 7
+        building_fishing_wharf = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        discovered_amount = 3
+    }
+    naval_exit_id = 3063
+}

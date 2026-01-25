@@ -1,0 +1,23 @@
+﻿STATE_COSTA_RICA = {
+    id = 342
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x10EF80" "x1A076A" "x32AA32" "x395FB6" "x478109" "x4D3411" "x535AE8" "x8342D1" "xB0243F" "xD88369" "xEF90DC" }
+    traits = { "state_trait_central_american_cordilleras" }
+    city = "x32AA32"
+    port = "xEF90DC"
+    farm = "xEF90DC"
+    mine = "x1A076A"
+    wood = "x478109"
+    arable_land = 15
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 24
+        building_logging_camp = 8
+        building_fishing_wharf = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 12
+    }
+    naval_exit_id = 3026
+}

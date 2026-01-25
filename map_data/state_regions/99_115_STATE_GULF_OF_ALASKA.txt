@@ -1,0 +1,4 @@
+﻿STATE_GULF_OF_ALASKA = {
+    id = 3119
+    provinces = { "x36CAFC" }
+}

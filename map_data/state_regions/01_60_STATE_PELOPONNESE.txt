@@ -1,0 +1,18 @@
+﻿STATE_PELOPONNESE = {
+    id = 130
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0055D7" "x43409D" "x61E57E" "xBA3449" "xC0D060" }
+    city = "x0055D7"
+    port = "xC0D060"
+    farm = "x43409D"
+    mine = "x43409D"
+    wood = "x61E57E"
+    arable_land = 10
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_logging_camp = 5
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3033
+}

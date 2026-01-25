@@ -1,0 +1,19 @@
+﻿STATE_TONGA = {
+    id = 1020
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x208030" "xA7F8A1" "xC00010" "xD98CDA" }
+    traits = { "state_trait_severe_malaria" }
+    city = "x208030"
+    port = "xA7F8A1"
+    farm = "xC00010"
+    mine = "xA7F8A1"
+    wood = "xC00010"
+    arable_land = 5
+    arable_resources = { "building_rice_farm" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_whaling_station = 4
+        building_fishing_wharf = 3
+    }
+    naval_exit_id = 3156
+}

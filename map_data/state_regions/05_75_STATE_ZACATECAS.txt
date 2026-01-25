@@ -1,0 +1,20 @@
+﻿STATE_ZACATECAS = {
+    id = 335
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x06468D" "x079132" "x0C6D43" "x1043A1" "x10545A" "x236BF3" "x6725CB" "x6D5F07" "x99570C" "x9AA3B4" "x9B87CC" "x9B8923" "xA00496" "xB6FB08" "xBFB49D" "xDDC184" "xE6A7AE" "xFC9EFC" "xFEBF1A" }
+    traits = { "state_trait_sierra_madre_oriental" }
+    city = "x9B8923"
+    farm = "x0C6D43"
+    mine = "x236BF3"
+    wood = "xE6A7AE"
+    arable_land = 80
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 23
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 4
+    }
+}

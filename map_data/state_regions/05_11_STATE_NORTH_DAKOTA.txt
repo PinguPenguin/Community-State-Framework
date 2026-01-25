@@ -1,0 +1,20 @@
+﻿STATE_NORTH_DAKOTA = {
+    id = 276
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0020C0" "x002DE6" "x080BEC" "x0EADCE" "x17235E" "x17983F" "x17EF0F" "x184A57" "x18D7A9" "x198845" "x20A1FA" "x224996" "x298347" "x2D7D62" "x30BADD" "x3160D9" "x329C17" "x3816BA" "x3EB1F2" "x43E5A3" "x5080C0" "x5BED05" "x647FB6" "x6B9ADF" "x746873" "x76F55B" "x7A9921" "x8C905E" "x8F0750" "x913BCB" "x9255F2" "x96B71E" "x96D61E" "x98A328" "x9D100E" "x9EA3FF" "x9FB4C1" "xA4C2F6" "xA5970F" "xA5A929" "xAA3B6E" "xAB458E" "xAB7707" "xAF6E5B" "xB5FEC3" "xB7F25B" "xBB73D1" "xBD89ED" "xBEFC85" "xC1C5C5" "xCDE122" "xCE5B60" "xD000C0" "xDD5888" "xE24F6E" "xE5FDC3" "xEE82BD" "xEF51A8" "xF03169" "xF3479B" "xF3C4FA" "xF3EC53" "xFAD908" }
+    traits = { "state_trait_the_great_plains" }
+    city = "x17EF0F"
+    farm = "xA4C2F6"
+    mine = "x6B9ADF"
+    wood = "x17235E"
+    arable_land = 240
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 48
+        building_logging_camp = 11
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+}

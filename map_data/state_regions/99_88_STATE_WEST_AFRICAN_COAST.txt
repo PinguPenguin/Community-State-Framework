@@ -1,0 +1,4 @@
+﻿STATE_WEST_AFRICAN_COAST = {
+    id = 3088
+    provinces = { "x4989FF" }
+}

@@ -1,0 +1,21 @@
+﻿STATE_PYONGYANG = {
+    #Yangseo
+    id = 539
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x096D79" "x11044D" "x12BC01" "x47D537" "x5204B8" "x605101" "x640C37" "x701180" "x7BEA9E" "x808E39" "x880F26" "x913CAF" "xA2DB51" "xB8F465" "xC5EF9A" "xDD6252" "xEAF581" "xF01000" "xF01180" }
+    city = "xDD6252"
+    port = "x11044D"
+    farm = "xDD6252"
+    mine = "x880F26"
+    wood = "x47D537"
+    arable_land = 100
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_iron_mine = 36
+        building_lead_mine = 36
+        building_logging_camp = 15
+        building_fishing_wharf = 8
+    }
+    naval_exit_id = 3057
+}

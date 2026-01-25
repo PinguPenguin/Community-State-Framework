@@ -1,0 +1,26 @@
+﻿STATE_PEGU = {
+    id = 526
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x020CFE" "x02F3AF" "x1070E0" "x11F060" "x1FD921" "x2906F0" "x2BD769" "x2D91EF" "x2F9F98" "x595BB6" "x67520F" "x81D108" "xA85E24" "xB030A0" "xB0B0A0" "xB13330" "xC0E31F" "xC2EA2C" "xC9BBA0" "xCF7060" "xF0F78C" }
+    traits = { "state_trait_irrwaddy_delta" "state_trait_burmese_teak" }
+    city = "xB0B0A0"
+    port = "xB13330"
+    farm = "x11F060"
+    mine = "xC9BBA0"
+    wood = "x02F3AF"
+    arable_land = 40
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_opium_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_dye_plantation" }
+    capped_resources = {
+        building_logging_camp = 18
+        building_fishing_wharf = 10
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 9
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 5
+    }
+    naval_exit_id = 3050
+}

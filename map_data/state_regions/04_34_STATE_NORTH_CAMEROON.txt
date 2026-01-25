@@ -1,0 +1,15 @@
+﻿STATE_NORTH_CAMEROON = {
+    id = 239
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00D6BF" "x06670A" "x09FC06" "x0BFE68" "x0C2F5E" "x0FCB7F" "x2DF456" "x361F6A" "x385429" "x406C11" "x459F5A" "x47CD3B" "x53F87C" "x566A89" "x5B8020" "x5E04F9" "x5EF062" "x62BA14" "x68BB93" "x6B5679" "x7E1438" "x7ECE9E" "x802050" "x881185" "x8A07D7" "x93AA9A" "x9611CE" "xA09A5A" "xA14C83" "xCCEC29" "xCED54E" "xD24292" "xD338DE" "xD9DF55" "xDE478C" "xE0307A" "xE9EC59" "xEA982F" "xEFC390" "xF24DEA" "xF9A3A7" "xFFD43F" }
+    traits = { "state_trait_malaria" }
+    city = "xCCEC29"
+    farm = "x2DF456"
+    mine = "x459F5A"
+    wood = "xE0307A"
+    arable_land = 70
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 18
+    }
+}

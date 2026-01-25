@@ -1,0 +1,21 @@
+﻿STATE_WEST_BENGAL = {
+    id = 457
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0A2277" "x13A493" "x1DBB94" "x272AEE" "x2FF791" "x397092" "x802A5E" "x82150A" "x844FCF" "x89538D" "x89D769" "x8F846C" "xBF385A" "xD0B0DF" "xD2FEA1" "xE2E92B" "xEF5060" }
+    traits = { "state_trait_bengal_delta" "state_trait_natural_harbors" "state_trait_raniganj_coalfield" }
+    city = "x89538D"
+    farm = "x89538D"
+    mine = "x272AEE"
+    wood = "x2FF791"
+    port = "x13A493"
+    arable_land = 553
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 80
+        building_iron_mine = 9
+        building_logging_camp = 29
+        building_fishing_wharf = 9
+    }
+
+    naval_exit_id = 3050
+}

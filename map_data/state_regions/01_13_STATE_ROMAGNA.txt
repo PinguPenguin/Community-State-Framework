@@ -1,0 +1,18 @@
+﻿STATE_ROMAGNA = {
+    id = 89
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x7000A0" "x708020" "xF000A0" "xFE3729" }
+    city = "x7000A0"
+    port = "x708020"
+    farm = "xFE3729"
+    mine = "xF000A0"
+    wood = "x708020"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_sulfur_mine = 48
+        building_logging_camp = 8
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3033
+}

@@ -1,0 +1,24 @@
+﻿STATE_ANTOFAGASTA = {
+    id = 362
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1B2EC2" "x2000F0" "x208070" "x20E574" "x291C71" "x2DF128" "x3FDC05" "x40D35C" "x4DCF72" "x694D06" "x6B33D0" "x71C02C" "x7984DF" "x8238EF" "x82A274" "x8BA717" "x8F918A" "xCAECEF" "xCC472E" "xCE7F3B" "xDE43F7" "xE96CF4" "xEE0067" "xF39FDA" "xF5E20E" }
+    traits = { "state_trait_andes" "state_trait_atacama_desert" }
+    city = "x7984DF"
+    port = "x2000F0"
+    farm = "x694D06"
+    mine = "xE96CF4"
+    wood = "x8F918A"
+    arable_land = 10
+    arable_resources = { "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 30
+        building_sulfur_mine = 48
+        building_fishing_wharf = 5
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 10
+    }
+    naval_exit_id = 3152
+}

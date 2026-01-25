@@ -1,0 +1,4 @@
+﻿STATE_BERING_SEA = {
+    id = 3128
+    provinces = { "x22CBFD" }
+}

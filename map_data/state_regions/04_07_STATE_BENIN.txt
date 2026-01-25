@@ -1,0 +1,24 @@
+﻿STATE_BENIN = {
+    id = 212
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x691E00" "x6F99BE" "x7B4B80" "x8A898E" "xB3DBE6" "xB8FA68" "xBEF3BD" "xC0E090" "xCF11A0" "xD42491" "xE11C43" "xEBFCB5" "xEC13AB" "xF1E4DA" "xFF1D7C" }
+    traits = { "state_trait_malaria" "state_trait_niger_river" }
+    city = "xF1E4DA"
+    port = "xF1E4DA"
+    farm = "xE11C43"
+    mine = "xBEF3BD"
+    wood = "xB8FA68"
+    arable_land = 100
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 48
+        building_iron_mine = 36
+        building_logging_camp = 9
+        building_fishing_wharf = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 16
+    }
+    naval_exit_id = 3091
+}

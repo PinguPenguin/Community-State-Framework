@@ -1,0 +1,17 @@
+﻿STATE_KUOPIO = {
+    id = 803
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0D3DF3" "x154428" "x2401AE" "x3C48A2" "x40C040" "x467F2F" "x4753CB" "x51CC44" "x523560" "x5D1467" "x7753B6" "x78FDD6" "x7B45A5" "x825979" "x8C31CF" "x8DCF76" "x932418" "x969608" "xA04180" "xA789AE" "xB81268" "xBC487D" "xC5A424" "xCC8E28" "xD105A8" "xD26819" "xD516FA" "xE761B2" "xED8DC6" "xF571CB" "xFF4B4C" "xFFBD54" }
+    city = "x8DCF76"
+    farm = "xB81268"
+    mine = "x51CC44"
+    wood = "xED8DC6"
+    arable_land = 25
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    traits = { "state_trait_scandinavian_forests" }
+    capped_resources = {
+        building_logging_camp = 42
+        building_iron_mine = 11
+    }
+    naval_exit_id = 3000
+}

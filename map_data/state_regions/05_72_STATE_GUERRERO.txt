@@ -1,0 +1,29 @@
+﻿STATE_GUERRERO = {
+    id = 333
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x01EFB4" "x0B94E3" "x10EF01" "x469921" "x4712FC" "x5AC30A" "x600DE6" "x8CC01A" "xA80151" "xAA660B" "xB846DD" "xDF5040" "xF28CF4" }
+    traits = { "state_trait_sierra_madre_oriental" }
+    city = "x4712FC"
+    port = "x4712FC"
+    farm = "x01EFB4"
+    mine = "x5AC30A"
+    wood = "x600DE6"
+    arable_land = 120
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 24
+        building_lead_mine = 15
+        building_logging_camp = 8
+        building_fishing_wharf = 4
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+    naval_exit_id = 3155
+}

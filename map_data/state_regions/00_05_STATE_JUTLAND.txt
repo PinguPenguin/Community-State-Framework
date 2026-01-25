@@ -1,0 +1,18 @@
+﻿STATE_JUTLAND = {
+    id = 6
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0040DF" "x00BFDF" "x1F29B8" "x2D2259" "x770871" "x8041E0" "x83E6B1" "x94468F" "x951AF2" "xB0B469" "xBA6413" "xEBF079" }
+    traits = { "state_trait_good_soils" }
+    city = "x951AF2"
+    port = "x8041E0"
+    farm = "xB0B469"
+    mine = "x770871"
+    wood = "xEBF079"
+    arable_land = 35
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3019
+}

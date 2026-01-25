@@ -1,0 +1,22 @@
+﻿STATE_TANGANYIKA = {
+    id = 225
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02207F" "x04F5F9" "x0E2596" "x16915A" "x1D96A3" "x206030" "x25315B" "x2691C1" "x2729FD" "x31DDA2" "x337D6C" "x33EBC0" "x34EFF0" "x385BCF" "x38E17B" "x3F4074" "x405CA8" "x425AA5" "x4511CE" "x46E610" "x494A2E" "x4C93A2" "x4F3573" "x5073C4" "x5093DF" "x51AA49" "x536B97" "x56F303" "x585D0C" "x5954AA" "x5F51AC" "x5FB098" "x61218F" "x642C7C" "x662B31" "x6936D4" "x6CFAFE" "x6E958D" "x735985" "x78575F" "x7CA754" "x7CE03A" "x80DF50" "x839660" "x83BED8" "x858E45" "x89572B" "x8C4477" "x8C8524" "x8D4D80" "x8EAA8A" "x8F39A2" "x940FCF" "x958123" "x97523A" "xA9BAF1" "xA9F940" "xAD3AA2" "xAEEF76" "xBCE7C6" "xC40CD1" "xC8EA56" "xCA829D" "xCAC52D" "xCBDC0C" "xD0FF5C" "xD54938" "xD8B2ED" "xDD184B" "xDF9923" "xDFA030" "xDFB528" "xE15FF5" "xE257AF" "xE5BCC5" "xEBBE80" "xECBF22" "xF25F2A" "xF3365F" "xF56448" "xFCA852" "xFDF261" }
+    prime_land = { "x5093DF" "x16915A" "xD8B2ED" "x80DF50" "x5954AA" "x34EFF0" "x662B31" }
+    traits = { "state_trait_malaria" "state_trait_lake_victoria" }
+    city = "x34EFF0"
+    farm = "xD0FF5C"
+    mine = "x16915A"
+    wood = "x0E2596"
+    arable_land = 150
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 72
+        building_iron_mine = 48
+        building_logging_camp = 23
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 28
+    }
+}

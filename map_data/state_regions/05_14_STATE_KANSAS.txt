@@ -1,0 +1,21 @@
+﻿STATE_KANSAS = {
+    id = 279
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x029975" "x0364B8" "x05C8DA" "x08A728" "x0B51E5" "x0CD9E6" "x1040C0" "x10C0C0" "x1711F0" "x17C2F0" "x1B1E8B" "x231FA5" "x24CC25" "x25C814" "x2CA41F" "x2D821B" "x405BB7" "x428D5B" "x432B51" "x49EB3C" "x4A5328" "x5196C1" "x54AC76" "x5A143B" "x5D421A" "x6377BB" "x69F3E2" "x6C6CF4" "x76A411" "x770EB3" "x7F42E1" "x876BD0" "x8B2E2A" "x8E9862" "x9040C0" "x9324D1" "x94CB2D" "xA00FE0" "xA68A21" "xAB5E06" "xAF6622" "xB8266A" "xBE4BF0" "xC020D9" "xCF5B71" "xD26D2D" "xD3D517" "xDA6117" "xDF119B" "xE5842F" "xE80F7D" "xEB0DEB" "xEB3089" "xEEC0B1" "xF5DE3F" }
+    traits = { "state_trait_the_great_plains" }
+    city = "x0364B8"
+    farm = "xE5842F"
+    mine = "x76A411"
+    wood = "xAF6622"
+    arable_land = 240
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_lead_mine = 18
+        building_logging_camp = 7
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 50
+    }
+}

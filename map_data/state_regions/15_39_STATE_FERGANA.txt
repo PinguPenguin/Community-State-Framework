@@ -1,0 +1,15 @@
+﻿STATE_FERGANA = {
+    id = 806
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1C545C" "x3D854F" "x4B7066" "x542EFD" "x5A2C97" "x6EA842" "x7625F5" "x8828FB" "xAD3425" "xB24B12" "xBB21A5" "xC0D040" "xC78F24" "xD767AD" "xDBD8BE" "xFB192C" }
+    city = "x3D854F"
+    farm = "x6EA842"
+    mine = "x542EFD"
+    wood = "xAD3425"
+    arable_land = 150
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tea_plantation" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_logging_camp = 5
+    }
+}

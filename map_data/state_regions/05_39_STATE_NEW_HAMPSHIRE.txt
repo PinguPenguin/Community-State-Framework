@@ -1,0 +1,19 @@
+﻿STATE_NEW_HAMPSHIRE = {
+    id = 303
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1DC591" "x2B5499" "x30C040" "x3E6BAD" "x92CF0F" "xB16D83" "xBB7965" "xD871BE" "xDB930D" }
+    traits = { "state_trait_new_england_whaling" "state_trait_american_chestnuts" }
+    city = "x2B5499"
+    port = "x30C040"
+    farm = "x30C040"
+    mine = "xB16D83"
+    wood = "xDB930D"
+    arable_land = 15
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" }
+    capped_resources = {
+        building_logging_camp = 14
+        building_whaling_station = 2
+        building_fishing_wharf = 2
+    }
+    naval_exit_id = 3017
+}

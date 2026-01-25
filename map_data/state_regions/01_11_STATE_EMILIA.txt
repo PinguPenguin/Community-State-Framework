@@ -1,0 +1,19 @@
+﻿STATE_EMILIA = {
+    id = 87
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0B3B43" "x700120" "xEF0021" "xF08021" "xF080A0" }
+    prime_land = { "xF08021" "x0B3B43" }
+    city = "x0B3B43"
+    port = "xF080A0"
+    farm = "x0B3B43"
+    mine = "xEF0021"
+    wood = "x700120"
+    arable_land = 60
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_logging_camp = 13
+        building_fishing_wharf = 3
+    }
+    naval_exit_id = 3032
+}

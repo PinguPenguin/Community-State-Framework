@@ -1,0 +1,17 @@
+﻿STATE_HENAN = {
+    id = 502
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x1111C0" "x112F90" "x1190C0" "x22554F" "x284C0E" "x3702A8" "x390A81" "x3EE5FD" "x42D2BF" "x4D05FD" "x4D6017" "x4D738D" "x55EA06" "x5C5657" "x5DB808" "x6CC08C" "x783F2A" "x909041" "x90D080" "x97B78C" "x985308" "x98EC6A" "xA43ACB" "xAD3FD2" "xB17F9F" "xB6B50B" "xC94FF2" "xD888E9" "xE87279" "xEF7A33" "xF2F770" "xF8272C" "xF9316A" }
+    traits = { "state_trait_yellow_river" }
+    city = "x5C5657"
+    farm = "x97B78C"
+    mine = "x4D05FD"
+    wood = "x5DB808"
+    arable_land = 500
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_coal_mine = 52
+        building_sulfur_mine = 36
+        building_logging_camp = 11
+    }
+}

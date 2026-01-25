@@ -1,0 +1,19 @@
+﻿STATE_LOWER_EGYPT = {
+    id = 175
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x2050A0" "x409060" "x48E2A5" "x5011E0" "x50D0E0" "x6F13AD" "x7ABE4B" "xA0D020" "xC09060" "xC37990" "xD050E0" "xF47AAA" }
+    traits = { "state_trait_nile_river" }
+    city = "xC09060"
+    port = "xA0D020"
+    farm = "x409060"
+    mine = "xD050E0"
+    wood = "x5011E0"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_sulfur_mine = 20
+        building_logging_camp = 2
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3034
+}

@@ -1,0 +1,22 @@
+﻿STATE_FRIESLAND = {
+    id = 47
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x4141A0" "x41C021" "x5A48A2" "xC041A0" "xC0C021" }
+    city = "xC0C021"
+    port = "x41C021"
+    farm = "xC041A0"
+    mine = "x4141A0"
+    wood = "x41C021"
+    arable_land = 30
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_whaling_station = 5
+        building_fishing_wharf = 15
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 60
+    }
+    naval_exit_id = 3027
+}

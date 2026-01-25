@@ -1,0 +1,22 @@
+﻿STATE_PERNAMBUCO = {
+    id = 395
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0973C9" "x0E7CA9" "x0F585E" "x0FC0EC" "x102F7B" "x124BA3" "x1A21F3" "x218050" "x26F1F5" "x30CFD0" "x344DF2" "x3A24E6" "x3DBD72" "x4C7639" "x5408F3" "x60C011" "x69F57B" "x6BB748" "x756819" "x781B63" "x7BA55B" "x8941F9" "x8ED4A6" "x937969" "xA04868" "xA08050" "xC0A070" "xC4D392" "xFAA9EB" }
+    traits = { state_trait_sertao state_trait_mata_atlantica }
+    city = "x0E7CA9"
+    port = "xC0A070"
+    farm = "x26F1F5"
+    mine = "x1A21F3"
+    wood = "x1A21F3"
+    arable_land = 60
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 5
+        building_fishing_wharf = 3
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        discovered_amount = 2
+    }
+    naval_exit_id = 3063
+}

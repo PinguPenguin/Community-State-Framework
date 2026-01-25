@@ -1,0 +1,19 @@
+﻿STATE_SINDH = {
+    id = 467
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02BBA0" "x105356" "x11152D" "x1507B8" "x16F3F6" "x1A04E6" "x23DFA9" "x268E58" "x315160" "x3FFB31" "x56F6E9" "x59EE31" "x5AF594" "x60B021" "x6E9D54" "x705060" "x73A9E3" "x808515" "x882A58" "x8C4F5A" "x8FC69D" "xAE1ED1" "xB2850D" "xC7D26A" "xCC14D7" "xD7517F" "xDB079F" "xDD447A" "xE4B4A2" "xF5592F" "xF90BDE" "xFBDCF5" }
+    traits = { "state_trait_indus_river" "state_trait_indus_valley" }
+    city = "xC7D26A"
+    port = "x6E9D54"
+    farm = "xAE1ED1"
+    mine = "x882A58"
+    wood = "x02BBA0"
+    arable_land = 75
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_opium_plantation" "building_sugar_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 4
+        building_fishing_wharf = 6
+        building_logging_camp = 3
+    }
+    naval_exit_id = 3048
+}

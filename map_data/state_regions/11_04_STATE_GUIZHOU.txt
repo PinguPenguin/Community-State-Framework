@@ -1,0 +1,16 @@
+﻿STATE_GUIZHOU = {
+    id = 482
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0398DE" "x053F4B" "x096C00" "x109000" "x12DE54" "x14F092" "x2145E4" "x21B519" "x24BC36" "x269610" "x2DB649" "x3254BE" "x392877" "x3DD0C5" "x4526DC" "x4C694B" "x4D64C0" "x581D64" "x6B9BF6" "x70CB39" "x735753" "x785430" "x7BC0E9" "x88C50C" "x8B77B9" "x8EF2F9" "x909000" "x91CCD7" "x957B54" "x97C139" "x9DDD67" "x9F6A1B" "xA61477" "xAA4079" "xAEBCB8" "xC3B047" "xC7612E" "xC80075" "xCABB49" "xDAD8AE" "xE0F060" "xEBF671" "xEE0374" "xF1F862" "xF38277" "xF4DC23" "xFCC7AF" }
+    traits = { "state_trait_pearl_river" }
+    city = "x096C00"
+    farm = "x053F4B"
+    mine = "x109000"
+    wood = "xE0F060"
+    arable_land = 110
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_logging_camp = 26
+    }
+}

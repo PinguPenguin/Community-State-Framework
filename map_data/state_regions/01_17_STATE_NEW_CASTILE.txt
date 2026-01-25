@@ -1,0 +1,18 @@
+﻿STATE_NEW_CASTILE = {
+    id = 93
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x093A56" "x2B550F" "x302080" "x41C3FC" "x73D6A9" "x8010A0" "x88CEE5" "x89CA9E" "x92DDDA" "xA1BEC2" "xB0A000" "xB0A080" "xB5194A" "xCAA3E1" "xDCD24C" "xF44640" "xF693FD" "xF841E6" }
+    traits = { "state_trait_tagus_river" }
+    city = "xDCD24C"
+    farm = "xB0A000"
+    mine = "x8010A0"
+    wood = "xB0A080"
+    arable_land = 51
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_coal_mine = 7
+        building_iron_mine = 3
+        building_sulfur_mine = 6
+    }
+}

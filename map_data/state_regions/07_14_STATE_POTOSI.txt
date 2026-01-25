@@ -1,0 +1,17 @@
+﻿STATE_POTOSI = {
+    id = 365
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0900B4" "x0AD269" "x0B0C75" "x0D59CE" "x270774" "x32B79C" "x41FA9C" "x42886B" "x47733E" "x48CD30" "x4E93E5" "x50379F" "x540F3D" "x5AD6BE" "x6955EB" "x7084E0" "x77DD69" "x7D78F0" "x7E2F00" "x82F7D6" "x97595D" "x9AB55F" "xA040B0" "xA08070" "xA78878" "xCEB68F" "xEE24B4" "xEF3699" "xF0A4ED" "xF2F873" "xF6C024" }
+    traits = { "state_trait_andes" }
+    city = "xF0A4ED"
+    farm = "x97595D"
+    mine = "x5AD6BE"
+    wood = "xF0A4ED"
+    arable_land = 20
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_lead_mine = 12
+        building_logging_camp = 9
+        building_gold_mine = 4
+    }
+}

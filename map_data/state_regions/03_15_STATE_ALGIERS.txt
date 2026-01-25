@@ -1,0 +1,21 @@
+﻿STATE_ALGIERS = {
+    id = 190
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0811DE" "x13AB12" "x16B315" "x20EF40" "x20EF80" "x267471" "x363B86" "x3BB3BB" "x513113" "x5ACA8F" "x713C2F" "x7E5293" "x9D893C" "xA75E78" "xAA79B2" "xB951DE" "xC6BA37" "xCB898B" "xD14DAC" "xD9F21C" "xEB7B78" "xEF919A" "xF151FD" "xFEE41A" }
+    prime_land = { "x713C2F" }
+    traits = { "state_trait_mitidja_plain" "state_trait_atlas_mountains" }
+    city = "x713C2F"
+    port = "xA75E78"
+    farm = "xAA79B2"
+    mine = "x0811DE"
+    wood = "xA75E78"
+    arable_land = 82
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 10
+        building_lead_mine = 7
+        building_logging_camp = 6
+        building_fishing_wharf = 8
+    }
+    naval_exit_id = 3032
+}

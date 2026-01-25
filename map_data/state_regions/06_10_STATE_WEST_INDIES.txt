@@ -1,0 +1,22 @@
+﻿STATE_WEST_INDIES = {
+    id = 348
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x1D9B6B" "x30F080" "x335389" "x33895B" "x445B6C" "x446C63" "x5299CA" "x606060" "x707080" "x70F001" "x89334D" "x89337A" "x9C52CA" "xB03080" "xD496B1" "xECC061" "xF07001" "xF0F001" }
+    prime_land = { "x9C52CA" "x33895B" }
+    traits = { "state_trait_volcanic_soil" }
+    city = "x9C52CA"
+    port = "xB03080"
+    farm = "x30F080"
+    mine = "x446C63"
+    wood = "x33895B"
+    arable_land = 30
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_coffee_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+    naval_exit_id = 3025
+}

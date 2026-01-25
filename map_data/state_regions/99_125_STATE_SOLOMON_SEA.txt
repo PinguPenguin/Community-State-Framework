@@ -1,0 +1,4 @@
+﻿STATE_SOLOMON_SEA = {
+    id = 3129
+    provinces = { "x39C9C9" }
+}

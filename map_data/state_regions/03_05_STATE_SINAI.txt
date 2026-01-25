@@ -1,0 +1,18 @@
+﻿STATE_SINAI = {
+    id = 180
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x390CFC" "x44F1F5" "x464B8A" "x76E63D" "x7DA2DA" "x8E5FD6" "x8ED45E" "xAB924B" "xAF35C9" "xC01060" "xC3AB33" "xD431F9" "xEC3DC5" }
+    city = "x8ED45E"
+    port = "xC01060"
+    farm = "xD431F9"
+    mine = "x8E5FD6"
+    wood = "xC3AB33"
+    arable_land = 10
+    arable_resources = { "building_livestock_ranch" }
+    capped_resources = {
+        building_fishing_wharf = 3
+        building_iron_mine = 24
+        building_lead_mine = 24
+    }
+    naval_exit_id = 3047
+}

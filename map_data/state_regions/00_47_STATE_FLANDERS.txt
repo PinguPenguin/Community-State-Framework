@@ -1,0 +1,17 @@
+﻿STATE_FLANDERS = {
+    id = 50
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0141A0" "x018061" "x800060" "x8041A0" "x808061" "x93FB2E" }
+    city = "x018061"
+    port = "x0141A0"
+    farm = "x800060"
+    mine = "x808061"
+    wood = "x8041A0"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 23
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3028
+}

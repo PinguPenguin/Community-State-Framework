@@ -1,0 +1,22 @@
+﻿STATE_KHUZESTAN = {
+    id = 418
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x09F8D1" "x4CA291" "x4FDA9B" "x55D475" "x80E4E1" "x872ACE" "xA18555" "xA99276" "xF5BD8F" "xFBA38B" }
+    city = "x55D475"
+    port = "xFBA38B"
+    farm = "x4CA291"
+    mine = "x80E4E1"
+    wood = "xF5BD8F"
+    arable_land = 60
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tobacco_plantation" "building_dye_plantation" "building_sugar_plantation" "building_silk_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 22
+        building_fishing_wharf = 5
+        building_logging_camp = 4
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 60
+    }
+    naval_exit_id = 3046
+}

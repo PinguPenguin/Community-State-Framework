@@ -1,0 +1,15 @@
+﻿STATE_RYAZAN = {
+    id = 817
+    subsistence_building = "building_subsistence_farm"
+    city = "x14830F"
+    farm = "xE1114E"
+    mine = "xC6A70B"
+    wood = "x92470A"
+    provinces = { "x089C80" "x0F54C0" "x11B251" "x14830F" "x19C20A" "x22B4AF" "x3EAD17" "x5EA87F" "x6121A0" "x617404" "x6E8ED4" "x729CED" "x77D1E9" "x8DE32D" "x92470A" "x9DF0D8" "xB0B91E" "xC1A5DD" "xC6A70B" "xC7194D" "xE1114E" "xEB025B" "xF402D3" "xF4F224" }
+    arable_land = 65
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 21
+        building_logging_camp = 28
+    }
+}

@@ -1,0 +1,4 @@
+﻿STATE_MOLUCCA_SEA = {
+    id = 3125
+    provinces = { "x16C9FB" }
+}

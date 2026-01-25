@@ -1,0 +1,16 @@
+﻿STATE_HYDERABAD = {
+    id = 476
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x01F273" "x0607C9" "x0B9150" "x1E32E0" "x25B964" "x293762" "x2B94C1" "x49EAE4" "x4FCA8A" "x507020" "x50F020" "x511610" "x5E950F" "x5EC767" "x67DBD9" "x6B578E" "x6C4C5A" "x75599C" "x774B02" "x782368" "x78A5B6" "x8729D5" "x90B0A0" "x90F0A0" "x9257D2" "x990C20" "xA1516D" "xACAC7B" "xB08536" "xB4928F" "xB83EA4" "xC5F1D7" "xC90323" "xD0440A" "xD07020" "xD7D0CD" "xD9F23D" "xDE9FE5" "xDF9BF7" "xE2709D" "xE3DECE" "xE7E1D9" "xF189CD" "xFDC9AD" "xFFACEF" }
+    city = "x4FCA8A"
+    farm = "xFFACEF"
+    mine = "x507020"
+    wood = "xA1516D"
+    arable_land = 250
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_opium_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_silk_plantation" }
+    capped_resources = {
+        building_logging_camp = 16
+        building_coal_mine = 6
+        building_iron_mine = 4
+    }
+}

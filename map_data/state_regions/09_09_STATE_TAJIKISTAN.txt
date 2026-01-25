@@ -1,0 +1,15 @@
+﻿STATE_TAJIKISTAN = {
+    id = 444
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x151461" "x1A750E" "x224CB7" "x2390CB" "x2565D9" "x42B020" "x44A62C" "x48AE67" "x527607" "x596BB1" "x5B18B1" "x5DA229" "x62B5FA" "x65165E" "x68146B" "x6C9619" "x6DA038" "x6DD7B6" "x6F2EC3" "x7052F1" "x85CE06" "x8DFA40" "x94C7A6" "x9856D4" "xA94DAF" "xB09020" "xB36D9F" "xB4B7D9" "xB7128C" "xC1BBAD" "xCDD089" "xD84D24" "xE4D8D8" "xEF90FF" "xFEB233" }
+    city = "x6DA038"
+    farm = "x94C7A6"
+    mine = "x42B020"
+    wood = "xA94DAF"
+    arable_land = 55
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tea_plantation" "building_opium_plantation" }
+    capped_resources = {
+        building_coal_mine = 36
+        building_logging_camp = 2
+    }
+}

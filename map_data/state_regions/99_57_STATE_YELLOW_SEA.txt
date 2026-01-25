@@ -1,0 +1,4 @@
+﻿STATE_YELLOW_SEA = {
+    id = 3057
+    provinces = { "x7EC8FA" }
+}

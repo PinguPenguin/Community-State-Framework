@@ -1,0 +1,4 @@
+﻿STATE_DANISH_STRAITS = {
+    id = 3019
+    provinces = { "x0AC8FA" }
+}

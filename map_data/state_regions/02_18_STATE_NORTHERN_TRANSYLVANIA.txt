@@ -1,0 +1,16 @@
+﻿STATE_NORTHERN_TRANSYLVANIA = {
+    id = 171
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x3161A0" "x4884E0" "x6E6896" "x73F00B" "x896455" "x897F3D" "xA08763" "xA77BCB" "xAF609F" "xB06161" "xC63C51" "xD0E0A0" }
+    city = "xD0E0A0"
+    farm = "x6E6896"
+    mine = "x73F00B"
+    wood = "x897F3D"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 48
+        building_iron_mine = 63
+        building_logging_camp = 13
+    }
+}

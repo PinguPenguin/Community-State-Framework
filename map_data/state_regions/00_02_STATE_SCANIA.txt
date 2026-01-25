@@ -1,0 +1,19 @@
+﻿STATE_SCANIA = {
+    id = 3
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x187CE5" "x2F5177" "x5D997D" "xAB6EC7" "xBE3D27" "xC04161" "xC0C061" "xD19738" "xD4DC3C" "xFBA406" }
+    traits = { "state_trait_scanian_soils" "state_trait_natural_harbors" }
+    city = "x2F5177"
+    port = "xC04161"
+    farm = "xD4DC3C"
+    mine = "xFBA406"
+    wood = "xD19738"
+    arable_land = 20
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 8
+        building_logging_camp = 10
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3019
+}

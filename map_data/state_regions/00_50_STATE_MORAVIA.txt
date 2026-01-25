@@ -1,0 +1,15 @@
+﻿STATE_MORAVIA = {
+    id = 53
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x08AA4B" "x10DFDF" "x12778D" "x1D088E" "x49C8F7" "x4B3444" "xD9A784" "xEF6080" }
+    city = "xD9A784"
+    farm = "xEF6080"
+    mine = "x1D088E"
+    wood = "x12778D"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 56
+        building_logging_camp = 14
+    }
+}

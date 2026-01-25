@@ -1,0 +1,21 @@
+﻿STATE_NIGERIA = {
+    id = 217
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0031D6" "x07034A" "x143779" "x1873FD" "x2601BC" "x324153" "x3DD80C" "x406090" "x40F92C" "x573ACD" "x582803" "x598F55" "x6ABA17" "x6CB8C2" "x7892A0" "x7AE469" "x842780" "x88CF46" "x8E79E2" "x9011E0" "x9090E0" "xA2698C" "xA41E3B" "xA591CC" "xADFC7B" "xB6B564" "xB6CC2E" "xB99D24" "xC06090" "xC0E011" "xC89CB8" "xD0E560" "xD98B12" "xD99196" "xE43BE6" "xE58343" "xEB4453" "xF4C138" "xF8AD48" }
+    traits = { "state_trait_malaria" }
+    city = "xF8AD48"
+    farm = "xB99D24"
+    mine = "x0031D6"
+    wood = "xA591CC"
+    arable_land = 60
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 45
+        building_lead_mine = 45
+        building_logging_camp = 20
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 24
+    }
+}

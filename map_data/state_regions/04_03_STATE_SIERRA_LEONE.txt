@@ -1,0 +1,23 @@
+﻿STATE_SIERRA_LEONE = {
+    id = 208
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x30F9B8" "x36A605" "x608050" "x6216D1" "x883E85" "x884E8D" "x8C1A4C" "x8F958C" "xBBF47C" "xC0AC6C" "xE4828F" "xF916CA" }
+    traits = { "state_trait_malaria" }
+    city = "x884E8D"
+    port = "xBBF47C"
+    farm = "x8F958C"
+    mine = "x36A605"
+    wood = "x884E8D"
+    arable_land = 70
+    arable_resources = { "building_rice_farm" "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 36
+        building_logging_camp = 11
+        building_fishing_wharf = 6
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 28
+    }
+    naval_exit_id = 3088
+}

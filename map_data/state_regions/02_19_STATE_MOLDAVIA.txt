@@ -1,0 +1,19 @@
+﻿STATE_MOLDAVIA = {
+    id = 172
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0983EE" "x0D8A56" "x30E0A0" "x35CE84" "x3CE97E" "x556DE7" "x56839F" "x734EFF" "x80D8F3" "x946A66" "xB0A0E0" "xEF2060" "xF40045" "xFF2F40" }
+    city = "x946A66"
+    farm = "x30E0A0"
+    mine = "x35CE84"
+    wood = "x0D8A56"
+    arable_land = 100
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_silk_plantation" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 26
+        building_logging_camp = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 50
+    }
+}

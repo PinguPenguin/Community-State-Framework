@@ -1,0 +1,18 @@
+﻿STATE_JAMAICA = {
+    id = 349
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1E761E" "x535B49" "x7070B8" }
+    traits = { "state_trait_kingston_harbour" "state_trait_volcanic_soil" }
+    city = "x7070B8"
+    port = "x7070B8"
+    farm = "x535B49"
+    mine = "x535B49"
+    wood = "x535B49"
+    arable_land = 20
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3061
+}

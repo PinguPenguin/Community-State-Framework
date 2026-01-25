@@ -1,0 +1,18 @@
+﻿STATE_GUANGDONG = {
+    id = 497
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x156AC0" "x19FD82" "x260389" "x2BDE7B" "x2C4C48" "x30B0E0" "x3131E0" "x475968" "x477755" "x489AB0" "x4E581C" "x62BF42" "x7131E0" "x85E0D4" "x8C9358" "x9A21B1" "xA92B88" "xA9B6D4" "xB031E0" "xB0B061" "xC77200" "xCB457A" "xDC137A" "xF0B061" "xF98B04" "xFEBFD5" }
+    traits = { "state_trait_pearl_river" "state_trait_natural_harbors" }
+    city = "x2BDE7B"
+    port = "xB031E0"
+    farm = "xFEBFD5"
+    mine = "x30B0E0"
+    wood = "xA92B88"
+    arable_land = 330
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 8
+        building_fishing_wharf = 14
+    }
+    naval_exit_id = 3056
+}

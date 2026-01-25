@@ -1,0 +1,34 @@
+﻿STATE_NORTH_BORNEO = {
+    id = 541
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x002310" "x0141B0" "x0F01DC" "x1C6623" "x242519" "x26DE63" "x278E1E" "x2EE734" "x3CCBAA" "x461E0E" "x61FE7A" "x6D3CF9" "x6FEE71" "x75D5D2" "x762FBA" "x763646" "x800170" "x8041B0" "x808070" "x821B67" "x905338" "x91B40F" "x965EF0" "x9E0616" "xB689E6" "xC0B7FD" "xC531AE" "xC65120" "xCED863" "xD0AC5F" "xD78953" "xDD9CFE" "xE66512" "xE9FB27" "xEF6FBE" "xF2BC79" "xF61121" "xFB18B8" "xFC8025" }
+    impassable = { "xE9FB27" "x8041B0" "x905338" }
+    traits = { "state_trait_sarawak_river" "state_trait_borneo_rainforest" }
+    city = "x800170"
+    port = "xC531AE"
+    farm = "x91B40F"
+    mine = "xC0B7FD"
+    wood = "xC65120"
+    arable_land = 20
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_sulfur_mine = 36
+        building_logging_camp = 20
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 8
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 16
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3055
+}

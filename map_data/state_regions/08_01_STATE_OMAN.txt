@@ -1,0 +1,20 @@
+﻿STATE_OMAN = {
+    id = 399
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x00BADA" "x0289EB" "x02FBFB" "x030A95" "x05983E" "x06581E" "x075D78" "x07D89B" "x093AC3" "x13506D" "x17CD85" "x1B25E6" "x1EA1F1" "x2DB9C1" "x2EDA6E" "x377D71" "x395325" "x3AFE0D" "x3C2FE8" "x42A960" "x48AF9C" "x5627A0" "x589BAF" "x59D849" "x5AF663" "x5FCC2E" "x68646C" "x6E2CE7" "x70519F" "x757C65" "x794443" "x79A9F3" "x7BE5F4" "x84FDD6" "x85D4B9" "x85E141" "x8941AF" "x8BA0D5" "x8BC60B" "x937BB2" "xA3015F" "xAAFA29" "xB6755D" "xB6FBDA" "xB70CA0" "xB82286" "xB8D035" "xBC6325" "xBFD3D7" "xC1BD52" "xC273D0" "xC790A2" "xCB50CF" "xCD06CE" "xD0D18E" "xD9AF1E" "xDEB75C" "xDEE039" "xE4E126" "xEDE86E" "xEF50A0" "xEFD0A0" "xF44B1E" "xF656B5" "xF7E8FC" "xF89153" "xF963C3" "xFD7FD6" }
+    city = "x70519F"
+    port = "xBC6325"
+    farm = "xDEB75C"
+    mine = "xB6755D"
+    wood = "x395325"
+    arable_land = 10
+    arable_resources = { "building_livestock_ranch" "building_coffee_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_fishing_wharf = 10
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+    naval_exit_id = 3048
+}

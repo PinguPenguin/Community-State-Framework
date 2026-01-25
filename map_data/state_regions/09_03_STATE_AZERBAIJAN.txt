@@ -1,0 +1,19 @@
+﻿STATE_AZERBAIJAN = {
+    id = 436
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x007060" "x008FBF" "x0467D5" "x0B74ED" "x0E8C3E" "x493F0B" "x69FE0D" "x6EB08E" "xBFD159" "xD77566" "xE7B07C" }
+    city = "x6EB08E"
+    farm = "x493F0B"
+    mine = "x0E8C3E"
+    wood = "x69FE0D"
+    arable_land = 30
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_lead_mine = 18
+        building_logging_camp = 4
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 100
+    }
+}

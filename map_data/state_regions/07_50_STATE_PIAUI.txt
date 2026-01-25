@@ -1,0 +1,23 @@
+﻿STATE_PIAUI = {
+    id = 660
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x042D0E" "x044CF8" "x07B5EB" "x0BDBE6" "x0DE512" "x14F661" "x189F0F" "x21C090" "x361174" "x506683" "x52B7ED" "x584067" "x66681E" "x68A97F" "x69BE90" "x735527" "x772A8C" "x7DCBC3" "x83E18C" "x8564C7" "x88F401" "x89AFD6" "x8A4B48" "x8DF511" "x91AB15" "x920A8F" "xA0C090" "xA33C32" "xA4E24B" "xA8B0C0" "xA9AA6B" "xAB0B29" "xAB18E1" "xB169D2" "xB355EE" "xB5C4BF" "xB634E7" "xB831D5" "xC688FC" "xC74E19" "xCA2BC6" "xCE40A2" "xCE8F26" "xD621B3" "xDA2527" "xDCFBF2" "xE39C8B" "xF07D68" "xF58072" "xF71214" }
+    traits = { state_trait_sertao }
+    city = "x14F661"
+    port = "xB169D2"
+    farm = "xF71214"
+    mine = "xA33C32"
+    wood = "x772A8C"
+    arable_land = 30
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 36
+        building_logging_camp = 14
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        discovered_amount = 4
+    }
+    naval_exit_id = 3063
+}

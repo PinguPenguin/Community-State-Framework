@@ -1,0 +1,16 @@
+﻿STATE_BUKOVINA = {
+    id = 922
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00A7F4" "x067DF0" "x31A0A0" "x7E6263" "xFFCCDA" }
+    city = "x00A7F4"
+    farm = "x00A7F4"
+    mine = "x00A7F4"
+    wood = "x00A7F4"
+    arable_land = 100
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 4
+        building_coal_mine = 2
+        building_logging_camp = 7
+    }
+}

@@ -1,0 +1,21 @@
+﻿STATE_BURYATIA = {
+    id = 829
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x028522" "x039A38" "x05A2C5" "x09F0CE" "x0B06EA" "x112583" "x167A0F" "x18711D" "x1B5736" "x1E8B0D" "x202A27" "x2039DC" "x269816" "x276763" "x28C602" "x2A6C12" "x2BE3DE" "x2C5FC9" "x30EF65" "x322AEC" "x323466" "x36B3BF" "x38F9FB" "x398212" "x39EB40" "x3C122E" "x4169CA" "x437326" "x48404E" "x4885A1" "x4B24CE" "x4DF580" "x4E0FEB" "x500344" "x51993D" "x54C90B" "x564CE6" "x59397D" "x5D9110" "x600929" "x61420A" "x61A524" "x61DD42" "x64E072" "x686DAB" "x6A86EA" "x6CB121" "x6D2017" "x6D9697" "x75058B" "x76203C" "x7DDAEF" "x7E496C" "x8038EF" "x85C9E7" "x85E6A4" "x878D2B" "x8DC52C" "x8F3286" "x8F65C4" "x91EEF1" "x92B038" "x92B2DB" "x95F274" "x970BF1" "x97B75E" "x980ECA" "x987D4B" "x9CA95C" "xA04028" "xA48B17" "xA50A94" "xAD5E23" "xAD95F9" "xAEB1E3" "xB0743E" "xB07A43" "xB1B551" "xB34694" "xB5F2CB" "xB8B28C" "xB8C142" "xBA4C82" "xBACF53" "xBCB837" "xBD2BCC" "xBF8274" "xBFBCAD" "xC4364A" "xC54AE3" "xC817F4" "xCB6DB6" "xCF99A2" "xCFD6A8" "xD276CA" "xD57FF2" "xD6B613" "xD991AB" "xDA75A8" "xDAE555" "xDB6156" "xDB716C" "xDC1518" "xDC5BC2" "xDF6190" "xE01195" "xE1B8FC" "xE21F35" "xE3A92A" "xE3BAA6" "xE75D89" "xE7DD63" "xED9ABE" "xF21CB3" "xF45742" "xF4A0B5" "xF4FC6E" "xF5017B" "xF53BA8" "xF8663D" "xF897EF" "xF9A2F4" "xF9F5D1" "xFC186E" "xFD9E80" "xFF5074" "xFF9B8A" }
+    city = "xF5017B"
+    farm = "xDB6156"
+    mine = "x9CA95C"
+    wood = "xF45742"
+    arable_land = 15
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 10
+        building_coal_mine = 24
+        building_logging_camp = 16
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 16
+    }
+}

@@ -1,0 +1,22 @@
+﻿STATE_PUNJAB = {
+    id = 464
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x022D2B" "x051899" "x0EC528" "x12D43A" "x19E5C0" "x1D3609" "x2DBD82" "x30122F" "x3631C3" "x36E637" "x402C84" "x4E722C" "x50D414" "x61F7C9" "x67DD93" "x6C44CE" "x706940" "x7074E3" "x713583" "x767A66" "x80F0E0" "x8F5440" "x918140" "x91DEAB" "x94A5A8" "x97232F" "x9AB208" "x9B38C0" "x9CEEC1" "xA0B0A0" "xA1CA4A" "xA6DAD0" "xAA60D3" "xB4E322" "xB94359" "xCA516D" "xCA5BC1" "xCD3942" "xCD3E9A" "xCEAF5E" "xCF602F" "xD458B6" "xD597DC" "xD921CB" "xDB08EC" "xE03121" "xE0C4D2" "xE2230E" "xE3CCA0" "xEFC3B4" "xF58253" "xF8614B" }
+    prime_land = { x9CEEC1 xF58253 x713583 xE3CCA0 xA6DAD0 x3631C3 x80F0E0 x50D414 xE03121 xD921CB x91DEAB xAA60D3 xE2230E x918140 x9B38C0 xCD3942 x67DD93 xCD3E9A xB94359 xE0C4D2 x4E722C x0EC528 x9AB208 xA0B0A0 xCA5BC1 x97232F x051899 xDB08EC x1D3609 x7074E3 xD458B6 x61F7C9 x767A66 x36E637 x12D43A xA1CA4A xF8614B x6C44CE x8F5440 x402C84 x94A5A8 xCEAF5E }
+    traits = { "state_trait_indus_river" "state_trait_indus_valley" }
+    city = "xCD3E9A"
+    farm = "x19E5C0"
+    mine = "xA0B0A0"
+    wood = "xA6DAD0"
+    arable_land = 505
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_silk_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 6
+        building_iron_mine = 6
+        building_logging_camp = 11
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 7
+    }
+}

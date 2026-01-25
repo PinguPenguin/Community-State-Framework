@@ -1,0 +1,17 @@
+﻿STATE_SICHUAN = {
+    id = 480
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0502BE" "x05195F" "x092323" "x09C8CB" "x0BAD6F" "x0D68E8" "x102905" "x11062E" "x11B3F7" "x12B742" "x143D50" "x154288" "x157E2E" "x162AC1" "x1C5B2A" "x1C8A07" "x2332C5" "x24A95A" "x25C936" "x28C7CA" "x2B4D74" "x2CC651" "x2F07EE" "x39A321" "x3E073E" "x411CFE" "x41F76A" "x42DB73" "x49C4AB" "x4BBCD9" "x4BEFB9" "x4C02B1" "x5056A4" "x509862" "x5304E5" "x59CA77" "x5B7400" "x5C8BAE" "x5D7F15" "x5F792D" "x60B060" "x60E0D5" "x654894" "x66015E" "x6E1C89" "x6FFCF0" "x710D15" "x735688" "x745C03" "x7511D0" "x787852" "x793905" "x7D9239" "x7F3356" "x7F900E" "x82755F" "x83A248" "x85F99B" "x87C535" "x891A77" "x8A6C0F" "x8B74E5" "x8C298E" "x8D0615" "x8F60D5" "x8FC46D" "x93091D" "x98345A" "x9F1EF5" "x9F88D3" "xA1C52B" "xA5D674" "xAD69D9" "xAE99AF" "xAF900C" "xB391A8" "xBAD952" "xBB4B6C" "xBC9630" "xBE3227" "xBE3ADF" "xBF0445" "xBFC5D3" "xC38352" "xC3C67F" "xC5FA12" "xC943C3" "xC97B8A" "xCAEF49" "xCCB937" "xD3C3F5" "xD57DC5" "xD7D182" "xD91B4A" "xDDCBB6" "xE0B060" "xE9438D" "xEA3DB0" "xF0F6C5" "xF47E4A" "xF64FC1" "xF6FED1" "xF72ADD" "xFF933F" }
+    traits = { "state_trait_yangtze_river" "state_trait_the_red_basin" }
+    city = "x60E0D5"
+    farm = "x28C7CA"
+    mine = "xF0F6C5"
+    wood = "xC943C3"
+    arable_land = 330
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_sulfur_mine = 40
+        building_logging_camp = 23
+    }
+}

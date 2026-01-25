@@ -1,0 +1,14 @@
+﻿STATE_KHIVA = {
+    id = 442
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x03630A" "x0A3F4D" "x18C7C6" "x1C2FB8" "x28C6D1" "x2C7B0C" "x2CDB86" "x415040" "x4905D7" "x52A7BD" "x5743DD" "x57585A" "x5BB27E" "x5E72D3" "x60D60F" "x665341" "x6E3FFF" "x735E95" "x7AAA53" "x85804E" "x891E67" "x8AE0DC" "x956DE6" "x994DF0" "x9B6910" "x9C7154" "x9CF8BD" "x9FB105" "xA487BA" "xA63DC7" "xACA7FD" "xB22914" "xC19656" "xC6FC10" "xDB89A8" "xEA2F67" "xEE0054" "xF1C7F1" "xF2786A" "xF99813" "xFF1B6D" }
+    city = "xA487BA"
+    farm = "x5BB27E"
+    mine = "xC6FC10"
+    wood = "xA487BA"
+    arable_land = 85
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_opium_plantation" "building_cotton_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+    }
+}

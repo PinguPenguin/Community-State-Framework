@@ -1,0 +1,19 @@
+﻿STATE_SHAOZHOU = {
+    id = 483
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x07C8D6" "x12DF0F" "x12F28E" "x242A48" "x31B061" "x40D43A" "x4CF229" "x845B19" "x8D6A1E" "x9C3F91" "xA0C90D" "xA613C9" "xAADB15" "xACD8B5" "xB03161" "xCD4039" "xD2A4C7" "xDFB220" "xE6F815" "xEA597E" "xEAB2D0" "xF070E0" "xF7C5ED" }
+    traits = { "state_trait_natural_harbors" }
+    city = "xA0C90D"
+    port = "xB03161"
+    farm = "x12F28E"
+    mine = "xACD8B5"
+    wood = "x242A48"
+    arable_land = 200
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 36
+        building_logging_camp = 11
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3056
+}

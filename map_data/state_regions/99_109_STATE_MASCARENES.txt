@@ -1,0 +1,4 @@
+﻿STATE_MASCARENES = {
+    id = 3111
+    provinces = { "x6EDBDB" }
+}

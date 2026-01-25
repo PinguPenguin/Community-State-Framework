@@ -1,0 +1,17 @@
+﻿STATE_KANDAHAR = {
+    id = 2010
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1BC1AF" "x1BF39F" "x3276E4" "x339975" "x3991B0" "x3ACBE0" "x42A020" "x52BEAF" "x55B1FD" "x621FFA" "x64ABBA" "xA0B020" "xAE8F58" "xBBE7A9" "xC57D6B" "xCB758F" "xDA8A5E" "xE7F59C" "xF0407A" "xF1FBC5" }
+    impassable = { "x64ABBA" "xAE8F58" "xA0B020" }
+    city = "xF1FBC5"
+    farm = "x55B1FD"
+    mine = "xBBE7A9"
+    wood = "x3991B0"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tea_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_coal_mine = 4
+        building_iron_mine = 5
+    }
+}

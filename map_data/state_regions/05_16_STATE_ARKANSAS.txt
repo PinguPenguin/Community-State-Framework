@@ -1,0 +1,20 @@
+﻿STATE_ARKANSAS = {
+    id = 281
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x070C9D" "x1402BF" "x181555" "x19E16B" "x1CF8D9" "x2126AD" "x316588" "x3D2FD4" "x407080" "x40F000" "x4887AC" "x4B4ADB" "x58998B" "x5B4E4D" "x5F4C23" "x637A11" "x63AA76" "x69827A" "x6B20E7" "x8F2DEF" "x9AE3BD" "x9CA0ED" "xA09531" "xB058B0" "xB20F72" "xB7FD4E" "xBA821E" "xBCAF1A" "xC0F000" "xC5BECD" "xC8F21F" "xC8FD36" "xDA6506" "xF205E8" "xF51011" "xFD9D2F" }
+    traits = { "state_trait_mississippi_river" }
+    city = "x316588"
+    farm = "x316588"
+    mine = "x4887AC"
+    wood = "x5F4C23"
+    arable_land = 180
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_lead_mine = 45
+        building_logging_camp = 11
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+}

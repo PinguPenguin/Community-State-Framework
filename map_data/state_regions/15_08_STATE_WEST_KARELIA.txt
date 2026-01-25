@@ -1,0 +1,19 @@
+﻿STATE_WEST_KARELIA = {
+    id = 917
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0A00AC" "x1E964A" "x208001" "x315CDB" "x3CFB81" "x3EFDA0" "x43E91D" "x63EE78" "x65EF3B" "x664F54" "x74C1F3" "x85EBD4" "x934610" "xAB4A30" "xAD3FF9" "xBB0055" "xBC376C" "xD093D4" "xFC48AF" }
+    traits = { "state_trait_scandinavian_forests" }
+    city = "xAB4A30"
+    port = "x3EFDA0"
+    farm = "x3CFB81"
+    mine = "xAD3FF9"
+    wood = "x934610"
+    arable_land = 22
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 18
+        building_logging_camp = 28
+        building_fishing_wharf = 2
+    }
+    naval_exit_id = 3000
+}

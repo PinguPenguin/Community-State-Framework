@@ -1,0 +1,4 @@
+﻿STATE_EASTERN_POLYNESIA = {
+    id = 3150
+    provinces = { "x81A0D2" }
+}

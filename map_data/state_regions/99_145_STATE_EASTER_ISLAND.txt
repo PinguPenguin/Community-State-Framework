@@ -1,0 +1,4 @@
+﻿STATE_EASTER_ISLAND = {
+    id = 3149
+    provinces = { "x91FFFF" }
+}

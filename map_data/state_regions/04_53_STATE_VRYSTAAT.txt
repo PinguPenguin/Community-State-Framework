@@ -1,0 +1,21 @@
+﻿STATE_VRYSTAAT = {
+    id = 258
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0A09B9" "x0DFB0C" "x19AE59" "x1B784D" "x373E53" "x424E43" "x46FA9A" "x4F31B5" "x52B31E" "x5365DF" "x56929D" "x589888" "x6253E3" "x739206" "x75FA4B" "x7BA736" "x83E266" "x8EF6E1" "x9D6A16" "xAAC657" "xB59D45" "xC5B1AF" "xCCC4D7" "xCEE3D2" "xED7851" "xF075D7" "xF17D3D" "xF95B36" "xFA9C37" "xFEA822" }
+    city = "xF95B36"
+    farm = "x9D6A16"
+    mine = "x4F31B5"
+    wood = "x83E266"
+    arable_land = 40
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_iron_mine = 30
+        building_logging_camp = 7
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 16
+    }
+}

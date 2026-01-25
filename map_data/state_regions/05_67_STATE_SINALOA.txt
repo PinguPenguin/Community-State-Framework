@@ -1,0 +1,19 @@
+﻿STATE_SINALOA = {
+    id = 671
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x007001" "x832AE4" "x963998" "xA4C4A6" "xC0B080" "xC6D687" "xD5299A" "xDFD0C0" "xE0E5E9" }
+    traits = { "state_trait_sierra_madre_occidental" }
+    city = "xC0B080"
+    port = "xDFD0C0"
+    farm = "xA4C4A6"
+    mine = "x832AE4"
+    wood = "x963998"
+    arable_land = 60
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_opium_plantation" }
+    capped_resources = {
+        building_iron_mine = 17
+        building_logging_camp = 7
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3153
+}

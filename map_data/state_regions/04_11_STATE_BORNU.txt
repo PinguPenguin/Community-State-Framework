@@ -1,0 +1,15 @@
+﻿STATE_BORNU = {
+    id = 216
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02DF23" "x19A1FF" "x3DEBFB" "x44E47D" "x509060" "x63F753" "x6848B4" "x68E691" "x7A78DD" "x8286BF" "x8A30C1" "x8C19CF" "x9F6B9E" "xAA28B4" "xABDBF1" "xAEED3D" "xB76263" "xBCD146" "xCFD021" "xD01120" "xD3869A" "xD79AA9" }
+    traits = { "state_trait_malaria" }
+    city = "xAEED3D"
+    farm = "x02DF23"
+    mine = "x8286BF"
+    wood = "x9F6B9E"
+    arable_land = 60
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 5
+    }
+}

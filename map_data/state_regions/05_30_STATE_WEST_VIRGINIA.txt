@@ -1,0 +1,17 @@
+﻿STATE_WEST_VIRGINIA = {
+    id = 295
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x06D57E" "x08D472" "x0F5821" "x2EA16C" "x30C000" "x364F38" "x366DF2" "x38925B" "x43DB99" "x579843" "x7416CB" "x7755AD" "x82CE19" "x845FC0" "x999738" "xAD371C" "xB04000" "xB865A2" "xCB120B" }
+    traits = { "state_trait_appalachian_coal" "state_trait_american_chestnuts" }
+    city = "x999738"
+    farm = "x7755AD"
+    mine = "x82CE19"
+    wood = "xAD371C"
+    arable_land = 50
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 80
+        building_iron_mine = 24
+        building_logging_camp = 17
+    }
+}

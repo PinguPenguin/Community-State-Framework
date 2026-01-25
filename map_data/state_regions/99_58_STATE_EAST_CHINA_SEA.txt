@@ -1,0 +1,4 @@
+﻿STATE_EAST_CHINA_SEA = {
+    id = 3058
+    provinces = { "x0FDDFB" }
+}

@@ -1,0 +1,29 @@
+﻿STATE_CAJAMARCA = {
+    id = 366
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x069581" "x08FB24" "x1D15F7" "x1FAA35" "x215FF5" "x2A7F60" "x2ACF46" "x2E0608" "x3EA1E4" "x4080D0" "x49AE7D" "x4CD5E4" "x53C9A1" "x54BF7F" "x5C955D" "x5ED420" "x66279A" "x6EDBA1" "x769175" "x8170A2" "x8D62E6" "xA33231" "xA6A663" "xAD65A3" "xB26C25" "xC000D0" "xC8294A" "xD12A1F" "xD57EEE" "xDC3D44" "xE709F8" "xE8C4B9" "xEF024D" "xF91A3D" }
+    traits = { "state_trait_andes" }
+    city = "x2E0608"
+    port = "xF91A3D"
+    farm = "xC000D0"
+    mine = "xDC3D44"
+    wood = "x8D62E6"
+    arable_land = 60
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 20
+        building_logging_camp = 6
+        building_whaling_station = 3
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 4
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3024
+}

@@ -1,0 +1,22 @@
+﻿STATE_WALLACHIA = {
+    id = 173
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x016C07" "x019D5F" "x020F11" "x2164E0" "x2613E8" "x31E021" "x51E021" "x582A74" "x690E91" "x743F1C" "x81C7F3" "x9E90C5" "xAB774D" "xB0E020" "xC6AC43" "xD11E19" "xD28965" "xE02121" "xE0A321" "xECC1DC" "xEF53AF" "xF6E6E3" "xF76B20" "xF9AA0F" }
+    traits = { "state_trait_danube_river" }
+    city = "xD11E19"
+    farm = "x9E90C5"
+    mine = "x743F1C"
+    wood = "xF9AA0F"
+    arable_land = 85
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_silk_plantation" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 68
+        building_iron_mine = 21
+        building_sulfur_mine = 15
+        building_logging_camp = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 80
+    }
+}

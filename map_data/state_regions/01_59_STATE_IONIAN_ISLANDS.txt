@@ -1,0 +1,16 @@
+﻿STATE_IONIAN_ISLANDS = {
+    id = 129
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x405060" "x4B79CA" }
+    city = "x4B79CA"
+    port = "x405060"
+    farm = "x405060"
+    mine = "x405060"
+    wood = "x405060"
+    arable_land = 10
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3033
+}

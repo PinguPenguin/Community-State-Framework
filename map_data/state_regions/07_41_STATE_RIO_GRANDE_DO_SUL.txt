@@ -1,0 +1,25 @@
+﻿STATE_RIO_GRANDE_DO_SUL = {
+    id = 388
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00E2C3" "x036508" "x0445FE" "x067BE3" "x118F07" "x161E6F" "x16C462" "x1956D3" "x19E79D" "x22956B" "x26F3A4" "x38328C" "x38A72A" "x45B9DF" "x48F668" "x4BBCCC" "x4EF206" "x529B8E" "x52B247" "x583BA0" "x5F39AB" "x5F9728" "x628161" "x633FB2" "x6E0564" "x7600E6" "x7678F5" "x782568" "x783434" "x7DEC91" "x7F701B" "x8953B5" "x8A15FA" "x8E3579" "x8F1635" "x9A598B" "x9BDDA2" "x9D8150" "x9FE393" "xA41E15" "xA787A2" "xA950E8" "xB88B11" "xBEAF68" "xC7E5A1" "xCC2135" "xCD5D1E" "xCD9ECD" "xD3A197" "xD8696A" "xD9D235" "xE17D15" "xE5C3BD" "xE69F64" "xE761EB" "xE933B3" "xED55D2" "xF0F96F" "xF1B2D9" "xFF2920" }
+    traits = { "state_trait_uruguay_river" "state_trait_pampas" }
+    city = "xC7E5A1"
+    port = "x52B247"
+    farm = "x00E2C3"
+    mine = "x9FE393"
+    wood = "x26F3A4"
+    arable_land = 80
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 28
+        building_logging_camp = 11
+        building_fishing_wharf = 6
+        building_whaling_station = 2
+        building_lead_mine = 30
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3064
+}

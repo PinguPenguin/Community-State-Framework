@@ -1,0 +1,15 @@
+﻿STATE_AWADH = {
+    id = 460
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x0CE121" "x1405D1" "x26284F" "x337F6C" "x4020A0" "x41D87C" "x4333C1" "x43F651" "x4AAE9F" "x4E84EF" "x564B78" "x63A78D" "x669ECB" "x7D9692" "x7F01B0" "x923D4D" "x9EA436" "xA03160" "xA3C721" "xACD960" "xBBC0A2" "xBEE076" "xC8BC69" "xD0B0A0" "xD99008" "xE070A0" "xEC8496" "xFD9E2F" }
+    traits = { "state_trait_ganges_river" }
+    city = "x7D9692"
+    farm = "xEC8496"
+    mine = "xD99008"
+    wood = "x7D9692"
+    arable_land = 371
+    arable_resources = { "building_silk_plantation" "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_opium_plantation" "building_sugar_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 6
+    }
+}

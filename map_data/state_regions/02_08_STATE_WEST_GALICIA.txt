@@ -1,0 +1,21 @@
+﻿STATE_WEST_GALICIA = {
+    id = 161
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1161E0" "x11E061" "x56599F" "x5F3456" "x66DCEE" "x906060" "x90E060" "xA550A9" "xA63CE6" "xC7B7B8" "xC8690C" "xFCC35F" }
+    prime_land = { "x5F3456" "xFCC35F" }
+    city = "x906060"
+    farm = "x5F3456"
+    mine = "x5F3456"
+    wood = "x5F3456"
+    arable_land = 145
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 140
+        building_iron_mine = 33
+        building_logging_camp = 17
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 60
+    }
+}

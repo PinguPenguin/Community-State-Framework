@@ -1,0 +1,22 @@
+﻿STATE_KURSK = {
+    id = 144
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x030048" "x0CA133" "x172A98" "x1A7021" "x1A9007" "x1C692E" "x20C1C2" "x2198C8" "x3374D9" "x40DFDF" "x47C81B" "x4CD7AF" "x4EB8EA" "x607311" "x6161A0" "x69B611" "x6BEE31" "x738BEC" "x743EA5" "x828B91" "x857200" "x91942B" "x9E14B9" "x9E5DCB" "xA0A0A0" "xA6F3BC" "xA79E4A" "xA87FC3" "xAD54E9" "xAE82E6" "xBA2909" "xC0E0E0" "xC761A3" "xCF35AA" "xF5419E" "xF553F9" "xF57AA5" }
+    city = "x1A9007"
+    farm = "x40DFDF"
+    mine = "xC761A3"
+    wood = "x6161A0"
+    arable_land = 115
+    traits = { "state_trait_don_river" "state_trait_black_soil" }
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 31
+        building_iron_mine = 93
+        building_sulfur_mine = 12
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 3
+    }
+}

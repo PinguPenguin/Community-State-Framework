@@ -1,0 +1,4 @@
+﻿STATE_LABRADOR_SEA = {
+    id = 3021
+    provinces = { "x69C9C9" }
+}

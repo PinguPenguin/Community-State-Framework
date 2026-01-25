@@ -1,0 +1,4 @@
+﻿STATE_NORTH_ATLANTIC_02 = {
+    id = 3077
+    provinces = { "xDA6DF6" }
+}

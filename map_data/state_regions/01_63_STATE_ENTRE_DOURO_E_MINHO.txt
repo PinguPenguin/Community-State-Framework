@@ -1,0 +1,22 @@
+﻿STATE_ENTRE_DOURO_E_MINHO = {
+    id = 927
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0EF845" "x37ADD8" "x641376" "xA64B2E" "xD0A000" "xD0E0C0" }
+
+    traits = { "state_trait_douro_valley" "state_trait_douro_river" }
+    city = "xA64B2E"
+    farm = "x641376"
+    mine = "x37ADD8"
+    wood = "x641376"
+    port = "xD0A000"
+    arable_land = 60
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 26
+        building_gold_mine = 2
+        building_lead_mine = 3
+        building_logging_camp = 7
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3029
+}

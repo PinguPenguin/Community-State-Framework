@@ -1,0 +1,20 @@
+﻿STATE_CHIANG_MAI = {
+    id = 521
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x01087A" "x09C664" "x118CA3" "x2C97B1" "x32744C" "x32B1BD" "x3AAF2B" "x47E1BB" "x4AEF8A" "x507060" "x77FDDB" "x7BB73F" "x88EF9B" "x94A916" "xA93401" "xAB195B" "xABF7A2" "xB17111" "xBD159F" "xD6A9D8" "xED5FC5" "xEE6A10" "xF32BB5" "xFBF0A4" }
+    city = "xAB195B"
+    farm = "xD6A9D8"
+    mine = "xABF7A2"
+    wood = "x3AAF2B"
+    arable_land = 30
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_lead_mine = 36
+        building_logging_camp = 18
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 4
+    }
+}

@@ -1,0 +1,23 @@
+﻿STATE_CENTRAL_JAVA = {
+    id = 912
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x01B3D5" "x143969" "x14F9F5" "x20DF70" "x62742E" "x727A46" "x9C517C" "xA06070" "xA12ED1" "xD19D2E" "xEB0621" }
+    traits = { "state_trait_volcanic_soil" }
+    city = "xD19D2E"
+    port = "xA06070"
+    farm = "xA06070"
+    mine = "x727A46"
+    wood = "x143969"
+    arable_land = 80
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 32
+        building_logging_camp = 6
+        building_fishing_wharf = 4
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+    naval_exit_id = 3052
+}

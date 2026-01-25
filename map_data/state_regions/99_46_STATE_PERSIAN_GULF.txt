@@ -1,0 +1,4 @@
+﻿STATE_PERSIAN_GULF = {
+    id = 3046
+    provinces = { "x56C8FA" }
+}

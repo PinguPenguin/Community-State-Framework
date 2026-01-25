@@ -1,0 +1,20 @@
+﻿STATE_ZAMBEZI = {
+    id = 254
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0C1465" "x115BA0" "x13126A" "x13D2E6" "x177BB7" "x1C0736" "x1DDFC8" "x1E71AD" "x2121F7" "x24BDE2" "x261624" "x26F723" "x28169C" "x297680" "x2A4E0D" "x397111" "x3AF96A" "x3B335C" "x3EC9D7" "x3F5B96" "x41B56A" "x42B2AD" "x4339A9" "x4389FD" "x479CCF" "x4F5BA5" "x503447" "x540A1A" "x5DC4AA" "x687096" "x692FBD" "x6BA7ED" "x6CCC83" "x6CFDCA" "x6FD74E" "x717AEE" "x72538D" "x75DD71" "x7C01BF" "x7E355F" "x7E3F56" "x84FBAB" "x86AC48" "x87A1D6" "x8AEE59" "x8BC875" "x8C071E" "x8CFBA4" "x8FA547" "x902111" "x90A011" "x9389EA" "x9641D5" "x9BC892" "x9E48A3" "x9E9DE0" "x9EE89D" "xA265E8" "xA55697" "xA713CF" "xAE5737" "xAF3E35" "xB04FCB" "xC5026F" "xC5B524" "xC7F1A1" "xC8D3A2" "xCA6529" "xCC95E8" "xCD5A23" "xCFB732" "xD09450" "xE640D6" "xEB2A0C" "xEEF770" "xF75223" "xFB6168" "xFDD3A8" "xFF008C" "xFFC747" }
+    traits = { "state_trait_severe_malaria" "state_trait_zambezi_river" }
+    city = "x2A4E0D"
+    farm = "x24BDE2"
+    mine = "x687096"
+    wood = "x26F723"
+    arable_land = 70
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 44
+        building_logging_camp = 11
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 16
+    }
+}

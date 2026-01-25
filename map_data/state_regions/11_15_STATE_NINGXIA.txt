@@ -1,0 +1,15 @@
+﻿STATE_NINGXIA = {
+    id = 492
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x059BB6" "x074BCB" "x09BCF6" "x18598F" "x19B590" "x1D97FA" "x1E4AB9" "x2030E0" "x23D056" "x2EE787" "x2FC489" "x2FF3B4" "x357B9C" "x358CED" "x3C0326" "x3FC5F7" "x48175A" "x4CCC0E" "x4DAD29" "x5023A8" "x584DF4" "x5A9612" "x5EA4EA" "x6CA1B1" "x6E8E64" "x769B1C" "x83E09F" "x88DFF1" "x8A81C7" "x8F5E51" "x909080" "x90E663" "x9101A7" "xA09080" "xA1721C" "xA762C6" "xAC32B2" "xB2D474" "xB4A217" "xB5C560" "xBF3F1F" "xC13263" "xC14D4F" "xC174DB" "xCA217E" "xCCCD99" "xCCEDF7" "xD5965A" "xD8DFAA" "xE94A07" "xF32666" "xF3DD2F" "xFB1690" "xFE1D86" }
+    traits = { "state_trait_yellow_river" }
+    city = "x769B1C"
+    farm = "x23D056"
+    mine = "x1D97FA"
+    wood = "xAC32B2"
+    arable_land = 200
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 8
+    }
+}

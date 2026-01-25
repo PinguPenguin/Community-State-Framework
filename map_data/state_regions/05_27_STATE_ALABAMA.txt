@@ -1,0 +1,25 @@
+﻿STATE_ALABAMA = {
+    id = 292
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00F000" "x12DEAF" "x168AE9" "x20B000" "x31044F" "x3837AA" "x3E5AFE" "x40A911" "x43AAC6" "x489DF2" "x492B79" "x53C044" "x5462C6" "x6510ED" "x656E7D" "x6D9811" "x807000" "x8E9218" "x913125" "x966D03" "x98A56F" "x9DD556" "xA50BE3" "xBD9F23" "xC8BB61" "xCC3103" "xCDE01B" "xE8D1CA" "xEE9129" }
+    traits = { "state_trait_american_chestnuts" }
+    city = "x489DF2"
+    port = "x807000"
+    farm = "xEE9129"
+    mine = "x966D03"
+    wood = "xE8D1CA"
+    arable_land = 170
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_coal_mine = 28
+        building_iron_mine = 30
+        building_lead_mine = 24
+        building_logging_camp = 17
+        building_fishing_wharf = 3
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3060
+}

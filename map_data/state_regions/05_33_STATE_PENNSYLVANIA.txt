@@ -1,0 +1,21 @@
+﻿STATE_PENNSYLVANIA = {
+    id = 297
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x038B77" "x0804CE" "x242311" "x265ADC" "x308080" "x345319" "x413E60" "x4CB9DF" "x501463" "x533151" "x56401E" "x606D4F" "x67DB6F" "x691121" "x6C494D" "x703866" "x75195D" "x7CF534" "x8C787A" "x976E86" "xAC9DC0" "xACC198" "xAF1AEE" "xB00000" "xB7EDCF" "xBC1A94" "xC0C080" "xC4DED4" "xC786AB" "xCDBD85" "xDD6B3C" "xE2ACEE" "xF08080" "xF1C228" }
+    traits = { "state_trait_ohio_river" "state_trait_appalachian_coal" "state_trait_american_chestnuts" }
+    city = "xB00000"
+    farm = "xC0C080"
+    mine = "xE2ACEE"
+    wood = "xC4DED4"
+    arable_land = 180
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 120
+        building_iron_mine = 57
+        building_logging_camp = 23
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 50
+    }
+}

@@ -1,0 +1,21 @@
+﻿STATE_OHIO = {
+    id = 288
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x000090" "x02EC28" "x131587" "x214D38" "x2158FB" "x255558" "x4A3037" "x638C4B" "x6CD2A5" "x704000" "x74A939" "x8B892B" "xA73D1F" "xA8C954" "xA92D73" "xAD9F9F" "xB0C080" "xB61C8A" "xBF2D59" "xC08BCD" "xC31F42" "xC8B64B" "xD043D4" "xD0C0C0" "xE39685" "xE4C01C" "xEDCEDA" "xF04000" "xFC90A5" }
+    traits = { "state_trait_ohio_river" }
+    city = "xC8B64B"
+    farm = "xC08BCD"
+    mine = "x2158FB"
+    wood = "xA92D73"
+    arable_land = 180
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_lead_mine = 36
+        building_logging_camp = 30
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+}

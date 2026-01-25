@@ -1,0 +1,28 @@
+﻿STATE_VERACRUZ = {
+    id = 670
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x067F2A" "x1B2176" "x1B599E" "x1C69F0" "x1CB3F9" "x253627" "x447790" "x4BF28B" "x5CE75E" "x5ED62A" "x87A6C4" "x8A6294" "x9030C0" "x9BDCE5" "xD08EE2" "xD0EF80" "xECF9FC" "xEE1E8B" }
+    traits = { "state_trait_sierra_madre_oriental" }
+    city = "xEE1E8B"
+    port = "x9030C0"
+    farm = "x1C69F0"
+    mine = "x5ED62A"
+    wood = "x5ED62A"
+    arable_land = 160
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 9
+        building_lead_mine = 12
+        building_logging_camp = 6
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 40
+    }
+    naval_exit_id = 3060
+}

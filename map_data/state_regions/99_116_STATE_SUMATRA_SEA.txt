@@ -1,0 +1,4 @@
+﻿STATE_SUMATRA_SEA = {
+    id = 3120
+    provinces = { "x66C8FA" }
+}

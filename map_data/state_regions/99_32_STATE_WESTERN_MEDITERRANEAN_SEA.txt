@@ -1,0 +1,4 @@
+﻿STATE_WESTERN_MEDITERRANEAN_SEA = {
+    id = 3032
+    provinces = { "x40D9DB" }
+}

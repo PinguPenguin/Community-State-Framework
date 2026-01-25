@@ -1,0 +1,21 @@
+﻿STATE_GALICIA = {
+    id = 94
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0EA604" "x167F12" "x33F984" "x50E040" "x583E92" "xB85939" "xD03554" "xD0E040" }
+    traits = { "state_trait_ria_of_ferrol" }
+    city = "xD0E040"
+    port = "xB85939"
+    farm = "x50E040"
+    mine = "x0EA604"
+    wood = "x33F984"
+    arable_land = 51
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_gold_mine = 2
+        building_iron_mine = 4
+        building_logging_camp = 5
+        building_fishing_wharf = 4
+        building_whaling_station = 1
+    }
+    naval_exit_id = 3029
+}

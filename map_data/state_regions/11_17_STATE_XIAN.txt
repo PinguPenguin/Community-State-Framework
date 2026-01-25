@@ -1,0 +1,21 @@
+﻿STATE_XIAN = {
+    id = 494
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x08880B" "x09BD45" "x11F985" "x1A1A09" "x1FCA38" "x2B47B0" "x2D169B" "x32EDB3" "x38D512" "x3A0F5D" "x3CE218" "x434092" "x4A615F" "x5003FE" "x509080" "x5E3640" "x609C66" "x63CB81" "x6A2E0D" "x6BE3E0" "x6CC278" "x6F4A61" "x749C07" "x7ED6E0" "x826987" "x8C9D26" "x9772CF" "x9D1667" "xA5CD14" "xA64E0F" "xA7D4E7" "xA82289" "xAD7D71" "xADCF92" "xAFEA41" "xC154EE" "xC9D000" "xCBACD2" "xD01000" "xD01080" "xD35EE3" "xDC98F0" "xE5BE65" "xEB71FF" "xF40585" "xF80FD0" }
+    traits = { "state_trait_the_loess_plateau" }
+    city = "xA64E0F"
+    farm = "xAD7D71"
+    mine = "x8C9D26"
+    wood = "x09BD45"
+    arable_land = 250
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 72
+        building_sulfur_mine = 60
+        building_logging_camp = 9
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+}

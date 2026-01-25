@@ -1,0 +1,26 @@
+﻿STATE_IVORY_COAST = {
+    id = 204
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02F6E1" "x20BFCF" "x2341DB" "x2D0E53" "x2E8BB3" "x2F7E3F" "x422883" "x5313B3" "x60C050" "x68E1B3" "x76636D" "x76D5EA" "x7FFBEA" "x858A67" "x8688F2" "x882B0E" "x8E3880" "x913076" "x9D72BC" "xA0BFCF" "xA6C81C" "xB25210" "xC70D90" "xD7CBF8" "xDBCD88" "xE0C050" "xF48315" "xF670EF" }
+    traits = { "state_trait_malaria" }
+    city = "xD7CBF8"
+    port = "xA0BFCF"
+    farm = "xF670EF"
+    mine = "x8688F2"
+    wood = "x422883"
+    arable_land = 50
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 14
+        building_fishing_wharf = 5
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 22
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 5
+    }
+    naval_exit_id = 3091
+}

@@ -1,0 +1,16 @@
+﻿STATE_DISTRICT_OF_COLUMBIA = {
+    id = 265
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x44578C" "x700080" }
+    city = "x700080"
+    port = "x700080"
+    farm = "x44578C"
+    mine = "x44578C"
+    wood = "x44578C"
+    arable_land = 3
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_fishing_wharf = 1
+    }
+    naval_exit_id = 3067
+}

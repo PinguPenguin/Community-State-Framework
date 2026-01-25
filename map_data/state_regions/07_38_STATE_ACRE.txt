@@ -1,0 +1,19 @@
+﻿STATE_ACRE = {
+    id = 665
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x06E343" "x0BEC9D" "x174A88" "x20BB6B" "x2C1E28" "x41C0D0" "x449875" "x46F090" "x5434FE" "x562DA4" "x5720BB" "x5C413B" "x7949EB" "x897E6F" "x93D464" "x9A5667" "xA296AF" "xAB73D1" "xB7152C" "xC4B4CD" "xD45C4D" "xDDB34E" "xF23C51" "xF605CB" "xF77646" "xFA73DA" "xFD1ADF" "xFDB1E8" "xFF2E3D" }
+    traits = { "state_trait_amazon_rainforest" }
+    city = "xFD1ADF"
+    farm = "xDDB34E"
+    mine = "x20BB6B"
+    wood = "x93D464"
+    arable_land = 5
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 15
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        discovered_amount = 15
+    }
+}

@@ -1,0 +1,23 @@
+﻿STATE_SHENGJING = {
+    id = 680
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x04FCF3" "x167EE8" "x169772" "x20E6F2" "x311D9E" "x474AF5" "x5C7F26" "x5DC943" "x61D001" "x6707A1" "x68FAEC" "x709001" "x7E008D" "x7F79DA" "x8D1556" "x955331" "x964A4F" "xA202E9" "xB75C7A" "xC7B981" "xCD72A9" "xCEB565" "xCF4570" "xD0B789" "xD7F9BA" "xE01101" "xE05101" "xE7363A" "xE9E896" "xE9FEDB" "xEFCA02" "xF6155A" }
+    traits = { "state_trait_dalian_bay" }
+    city = "xA202E9"
+    port = "x709001"
+    farm = "x474AF5"
+    mine = "xD7F9BA"
+    wood = "xE9FEDB"
+    arable_land = 75
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_lead_mine = 15
+        building_logging_camp = 2
+        building_fishing_wharf = 2
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3057
+}

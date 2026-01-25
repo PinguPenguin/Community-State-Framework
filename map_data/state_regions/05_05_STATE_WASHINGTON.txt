@@ -1,0 +1,20 @@
+﻿STATE_WASHINGTON = {
+    id = 270
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x004935" "x00A000" "x0187D7" "x036981" "x052300" "x085961" "x0A48BB" "x0D9D1A" "x20C0C0" "x227733" "x266DDD" "x2BF430" "x2CE4D9" "x2FEE4D" "x30DED0" "x3575A8" "x38322E" "x3A17A7" "x3CB52E" "x3E4D28" "x3F0EE7" "x496526" "x4F0C2D" "x551707" "x553AEE" "x5637A4" "x5DFA9B" "x639A2C" "x64DA01" "x68129D" "x6845FD" "x6AA85B" "x7147A2" "x74558E" "x872665" "x896ABB" "x8CF087" "x940588" "x9AA5A8" "x9E03D5" "xA040C0" "xA4DD56" "xA92FD8" "xAC33A4" "xB4D972" "xB5A331" "xBBBE62" "xC0F8C2" "xC77F08" "xC8CBF4" "xCD3BA9" "xCF4646" "xD31024" "xD61B40" "xD96A8E" "xDAC21E" "xDCF81F" "xF4C54B" "xFC0388" "xFFBEF7" }
+    traits = { "state_trait_columbia_river" "state_trait_cascades" }
+    city = "xA4DD56"
+    port = "xCF4646"
+    farm = "x3575A8"
+    mine = "x3A17A7"
+    wood = "xA92FD8"
+    arable_land = 180
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_logging_camp = 40
+        building_fishing_wharf = 6
+        building_whaling_station = 3
+    }
+    naval_exit_id = 3154
+}

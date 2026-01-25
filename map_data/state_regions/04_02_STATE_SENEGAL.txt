@@ -1,0 +1,23 @@
+﻿STATE_SENEGAL = {
+    id = 206
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x008EC3" "x08DC87" "x12B16A" "x15407B" "x186409" "x1F187B" "x2227E7" "x267B18" "x269443" "x307041" "x30EF40" "x329831" "x339E4C" "x3A5023" "x3D9C4C" "x4983E8" "x656C64" "x696F38" "x70B0C0" "x7B4218" "x7B561C" "x8587D6" "x969FBB" "xA80844" "xA90C4B" "xAACD3D" "xB07040" "xB0EF40" "xB6C103" "xBCFFB5" "xCBF5C9" "xCD9D60" "xD633FE" "xD6E38D" "xE69A18" "xE70946" "xECB3CF" "xEF30C0" "xEFAFC0" "xF8E5E2" }
+    traits = { "state_trait_malaria" "state_trait_sahel" "state_trait_cap_vert" }
+    city = "xEF30C0"
+    port = "xBCFFB5"
+    farm = "xB07040"
+    mine = "x70B0C0"
+    wood = "x30EF40"
+    arable_land = 120
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_iron_mine = 30
+        building_sulfur_mine = 40
+        building_fishing_wharf = 10
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3088
+}

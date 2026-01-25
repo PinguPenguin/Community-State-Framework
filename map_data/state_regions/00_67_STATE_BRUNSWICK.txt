@@ -1,0 +1,18 @@
+﻿STATE_BRUNSWICK = {
+    id = 70
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x2180E0" "x43D537" "x4C16EA" "xA001E0" "xA61E6E" }
+    prime_land = { "x2180E0" "xA61E6E" }
+    city = "xA61E6E"
+    farm = "x4C16EA"
+    mine = "xA61E6E"
+    wood = "xA61E6E"
+    arable_land = 30
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 40
+        building_iron_mine = 45
+        building_lead_mine = 45
+        building_logging_camp = 6
+    }
+}

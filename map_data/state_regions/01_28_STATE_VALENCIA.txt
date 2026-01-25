@@ -1,0 +1,20 @@
+﻿STATE_VALENCIA = {
+    id = 103
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x25DD5C" "x721583" "x8FDF80" "x99E5CE" "xCAC27C" "xD06040" "xDFEF80" }
+    city = "x8FDF80"
+    port = "x25DD5C"
+    farm = "xCAC27C"
+    mine = "xD06040"
+    wood = "x721583"
+    arable_land = 56
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 12
+        building_iron_mine = 8
+        building_lead_mine = 5
+        building_logging_camp = 5
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3032
+}

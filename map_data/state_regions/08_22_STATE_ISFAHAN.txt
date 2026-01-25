@@ -1,0 +1,18 @@
+﻿STATE_ISFAHAN = {
+    id = 419
+    traits = { "state_trait_turqoise_deposits" }
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x077437" "x124E8C" "x24A57B" "x2657C9" "x2A39A6" "x31DF75" "x362C14" "x37295A" "x4C1CD8" "x4E9FD1" "x527229" "x5FE0AF" "x616406" "x672217" "x6C648A" "x6F0F7C" "x7AE349" "x7CCE94" "x803160" "x89719E" "x8D9CEC" "x8DDEC3" "x95A3F5" "xB1591C" "xB75FFC" "xC03160" "xC07020" "xC5AECF" "xD35B7E" "xE9B06D" "xED39D0" "xF17A7A" "xF29735" }
+    city = "xE9B06D"
+    farm = "xED39D0"
+    mine = "x8D9CEC"
+    wood = "x527229"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_opium_plantation" "building_dye_plantation" "building_cotton_plantation" "building_silk_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 22
+        building_iron_mine = 51
+        building_lead_mine = 28
+        building_logging_camp = 4
+    }
+}

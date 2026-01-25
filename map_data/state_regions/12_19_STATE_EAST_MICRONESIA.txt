@@ -1,0 +1,21 @@
+﻿STATE_EAST_MICRONESIA = {
+    id = 1000
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x527F6C" "x808011" "x808090" "x80C011" "xCD1EA0" "xF5DBBF" }
+    impassable = { "x808090" "x527F6C" }
+    center_province = "x808011"
+    traits = { "state_trait_severe_malaria" }
+    city = "x808011"
+    port = "x808011"
+    farm = "x808011"
+    mine = "x808011"
+    wood = "x808011"
+    arable_land = 5
+    arable_resources = { "building_rice_farm" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_whaling_station = 3
+        building_fishing_wharf = 3
+    }
+    naval_exit_id = 3002
+}

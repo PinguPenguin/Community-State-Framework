@@ -1,0 +1,25 @@
+﻿STATE_KUBAN = {
+    id = 434
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0E69B9" "x16687C" "x191F70" "x2CF115" "x2E1A32" "x33CC4D" "x3C9016" "x405000" "x469A99" "x522F82" "x594403" "x61D073" "x6BB70E" "x6F16AA" "x708C99" "x76B63F" "x7BCBCC" "x80D080" "x89223D" "x9809B7" "x9A01E0" "xAF4F59" "xB63D94" "xBCF376" "xC88562" "xD5648D" "xD9CD9D" "xE6667B" "xEB2EF5" "xF51533" }
+    traits = { "state_trait_western_steppe" "state_trait_black_soil" }
+    city = "x80D080"
+    port = "x9809B7"
+    farm = "x405000"
+    mine = "x2CF115"
+    wood = "xD9CD9D"
+    arable_land = 105
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 10
+        building_lead_mine = 27
+        building_iron_mine = 10
+        building_logging_camp = 35
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+    naval_exit_id = 3036
+}

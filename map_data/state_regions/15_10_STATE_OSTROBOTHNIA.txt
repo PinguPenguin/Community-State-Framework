@@ -1,0 +1,19 @@
+﻿STATE_OSTROBOTHNIA = {
+    id = 14
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x08E342" "x1C3DCF" "x214180" "x238A38" "x24FC8C" "x34A9F8" "x37CE53" "x398433" "x3DBB6E" "x47E04D" "x69F3E6" "x7C55E0" "x9402DB" "x993955" "x9C363D" "x9DB817" "xC4EB7D" "xD38306" "xE01B70" "xED5B1B" "xED84C3" "xEF788A" "xF2C73E" "xF3D220" "xF89B5A" "xFBFA4C" "xFEA699" }
+    traits = { "state_trait_scandinavian_forests" }
+    city = "xED5B1B"
+    port = "xFBFA4C"
+    farm = "xC4EB7D"
+    mine = "x993955"
+    wood = "x3DBB6E"
+    arable_land = 15
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_lead_mine = 5
+        building_logging_camp = 25
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3000
+}

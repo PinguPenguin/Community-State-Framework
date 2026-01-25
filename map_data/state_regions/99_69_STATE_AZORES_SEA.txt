@@ -1,0 +1,4 @@
+﻿STATE_AZORES_SEA = {
+    id = 3069
+    provinces = { "x3DCACA" }
+}

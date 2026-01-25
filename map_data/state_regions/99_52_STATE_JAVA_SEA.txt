@@ -1,0 +1,4 @@
+﻿STATE_JAVA_SEA = {
+    id = 3052
+    provinces = { "x63DCFA" }
+}

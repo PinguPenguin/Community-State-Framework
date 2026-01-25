@@ -1,0 +1,4 @@
+﻿STATE_NORWEGIAN_SEA = {
+    id = 3020
+    provinces = { "x0FDCFA" }
+}

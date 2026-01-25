@@ -1,0 +1,17 @@
+﻿STATE_BESSARABIA = {
+    id = 174
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1E1DEF" "x23621B" "x53D7E0" "x5F2259" "x622837" "x6BF7B8" "x712161" "x79D62E" "x8955DF" "x8ACA9B" "xB0E0A0" "xE7274A" "xFC9EFE" "xFDE796" }
+    city = "xFC9EFE"
+    port = "x23621B"
+    farm = "x6BF7B8"
+    mine = "x1E1DEF"
+    wood = "xE7274A"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_fishing_wharf = 9
+    }
+    naval_exit_id = 3036
+}

@@ -1,0 +1,4 @@
+﻿STATE_ARABIAN_SEA = {
+    id = 3048
+    provinces = { "x54FAFA" }
+}

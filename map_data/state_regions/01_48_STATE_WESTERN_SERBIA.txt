@@ -1,0 +1,17 @@
+﻿STATE_WESTERN_SERBIA = {
+    id = 120
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x10A060" "x4773E6" "x4B1F45" "x4D115A" "x90A061" "x9DFFAF" "xEDBA20" "xF9E78E" }
+    prime_land = { "x9DFFAF" }
+    traits = { "state_trait_danube_river" }
+    city = "xF9E78E"
+    farm = "x9DFFAF"
+    mine = "x90A061"
+    wood = "xEDBA20"
+    arable_land = 35
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_logging_camp = 13
+    }
+}

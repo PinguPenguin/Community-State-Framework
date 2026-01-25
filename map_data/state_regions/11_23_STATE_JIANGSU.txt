@@ -1,0 +1,17 @@
+﻿STATE_JIANGSU = {
+    id = 500
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x11D080" "x21F0E0" "x2C1D6B" "x474A7C" "x51D0C0" "x51DED8" "x57F598" "x6B1559" "xCEA76B" "xCFABF8" "xD39CAD" "xDB13A1" "xEF14F8" "xF5F230" "xFAE3BB" }
+    city = "x11D080"
+    port = "x57F598"
+    farm = "xDB13A1"
+    mine = "xEF14F8"
+    wood = "xD39CAD"
+    arable_land = 280
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_logging_camp = 8
+        building_fishing_wharf = 8
+    }
+    naval_exit_id = 3057
+}

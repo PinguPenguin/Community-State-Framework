@@ -1,0 +1,16 @@
+﻿STATE_RYUKYU_ISLANDS = {
+    id = 1030
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xF0D080" "xF0F061" }
+    city = "xF0F061"
+    port = "xF0D080"
+    farm = "xF0F061"
+    mine = "xF0F061"
+    wood = "xF0F061"
+    arable_land = 15
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3058
+}

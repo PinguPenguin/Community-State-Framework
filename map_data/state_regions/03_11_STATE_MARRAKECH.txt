@@ -1,0 +1,19 @@
+﻿STATE_MARRAKECH = {
+    id = 186
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x05EA68" "x082C5F" "x43DA94" "x4DF62B" "x567F0E" "x5875FD" "x58949B" "x5A68FC" "x60EF40" "x6CA1BE" "x6CAFA4" "x7318F4" "x76734F" "xA71D65" "xB4CFFC" "xDB16D9" "xDF7040" "xE070C0" "xFDFF7B" }
+    traits = { "state_trait_khouribga_basin" }
+    city = "x5A68FC"
+    port = "x43DA94"
+    farm = "x4DF62B"
+    mine = "x5875FD"
+    wood = "x082C5F"
+    arable_land = 60
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 30
+        building_sulfur_mine = 52
+        building_fishing_wharf = 8
+    }
+    naval_exit_id = 3089
+}

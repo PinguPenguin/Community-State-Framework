@@ -1,0 +1,4 @@
+﻿STATE_SEA_OF_MARMARA = {
+    id = 3035
+    provinces = { "x47DCFA" }
+}

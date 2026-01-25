@@ -1,0 +1,4 @@
+﻿STATE_LACCADIVE_SEA = {
+    id = 3049
+    provinces = { "x6FDEFC" }
+}

@@ -1,0 +1,18 @@
+﻿STATE_AL_RIF = {
+    id = 188
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x20B0C0" "xA0B0C0" "xCA9F75" "xDFB040" "xE6D43C" "xFA1C92" }
+    city = "x20B0C0"
+    port = "xCA9F75"
+    farm = "xA0B0C0"
+    mine = "xE6D43C"
+    wood = "x20B0C0"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_fishing_wharf = 7
+        building_coal_mine = 6
+    }
+    naval_exit_id = 3032
+}

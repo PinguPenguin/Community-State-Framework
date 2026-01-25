@@ -1,0 +1,18 @@
+﻿STATE_INGRIA = {
+    id = 131
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x01A0E0" "x042A4F" "x065E68" "x0FEA4B" "x246095" "x3F6DEC" "x441576" "x57DF51" "x607A9E" "x6122C5" "x743B9C" "x80A0E0" "x8F79E9" "x93FBC9" "xA79D26" "xAD3522" "xAEBDCB" "xB64167" "xB6C9C3" "xBB73A3" "xCD164E" "xD14E99" "xD1CBDD" "xD6A28B" "xD7689F" "xDA2E04" "xDED975" "xE97616" "xE9C671" "xF4E44C" }
+    traits = { "state_trait_russian_forest" "state_trait_kronstadt_island" }
+    city = "xCD164E"
+    port = "xCD164E"
+    farm = "xDED975"
+    mine = "xB64167"
+    wood = "x80A0E0"
+    arable_land = 50
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 25
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3000
+}

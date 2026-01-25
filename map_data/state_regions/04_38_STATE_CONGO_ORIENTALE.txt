@@ -1,0 +1,21 @@
+﻿STATE_CONGO_ORIENTALE = {
+    id = 243
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00EC62" "x0160D0" "x01E050" "x0243AE" "x02B17D" "x040C3C" "x0B03B1" "x0BBD77" "x0F3567" "x135F4B" "x142BDA" "x153063" "x15439F" "x162FA7" "x17D507" "x19DDCD" "x1A870C" "x1F2FF9" "x1FEDC0" "x209F73" "x20B1EF" "x21A030" "x223541" "x223F0E" "x24A74A" "x26A8CE" "x281E37" "x28D2E7" "x2A5811" "x2B239A" "x2BDAC0" "x3202D5" "x359C6B" "x380B3D" "x3A2B4A" "x3AF918" "x401860" "x403631" "x44082A" "x457464" "x485FF5" "x4C5241" "x4DC376" "x4F0B70" "x5247D2" "x52D55E" "x530E61" "x563D5E" "x5F8C84" "x60B2BD" "x65DC7E" "x668E52" "x66D104" "x67535D" "x67E98B" "x68D1B6" "x6C7A9D" "x7449D3" "x74FC60" "x75430A" "x768554" "x76F938" "x782089" "x782AE0" "x7ABE0E" "x7E3537" "x83B258" "x845B38" "x85AB59" "x85DD57" "x867071" "x86B9C3" "x886533" "x892521" "x894227" "x8D0077" "x91E008" "x930D6F" "x94C029" "x95F321" "x9C56C4" "x9C9DF0" "x9D0722" "x9D9072" "x9E6083" "xA0A030" "xA82701" "xA97CAE" "xACB239" "xADE217" "xAFF1B2" "xB164FA" "xB2F385" "xB3BFC1" "xBDBDF3" "xC31CD2" "xC6AF9F" "xC8B71B" "xCC2E74" "xCCED8E" "xCE5D4E" "xD142A3" "xD24A32" "xD2FDC0" "xD30720" "xD39546" "xD67434" "xD6E056" "xD89C62" "xDA13AB" "xDAB788" "xDC7664" "xDCBFE3" "xE00EC9" "xE06714" "xE2A642" "xE31D6A" "xE3A90C" "xE42825" "xE5EAF3" "xE70C3A" "xEB5E44" "xEC1630" "xEDCBCD" "xEECA6C" "xF23E3F" "xF5DD95" "xF86F76" "xFBDA6B" "xFC2084" "xFD986B" }
+    traits = { "state_trait_severe_malaria" "state_trait_congo_river" "state_trait_congo_forest" }
+    prime_land = { "x223F0E" "x782089" "xDA13AB" "xE3A90C" "x67535D" "xDC7664" "x040C3C" "x19DDCD" "xEECA6C" "x21A030" "xE3A90C" "xBDBDF3" "x9C9DF0" "x28D2E7" "x153063" "x563D5E" "xC6AF9F" "x66D104" }
+    city = "x485FF5"
+    farm = "xC31CD2"
+    mine = "xC8B71B"
+    wood = "x26A8CE"
+    arable_land = 80
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 44
+        building_logging_camp = 23
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 52
+    }
+}

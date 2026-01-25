@@ -1,0 +1,15 @@
+﻿STATE_POSEN = {
+    id = 160
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x085962" "x1FA1E1" "x2141A0" "x2E6001" "x41E0A0" "x635336" "x999CEE" "xC02121" "xC32D8B" "xE513C0" "xF962B2" "xFCC7B7" }
+    city = "x999CEE"
+    farm = "xFCC7B7"
+    mine = "x2141A0"
+    wood = "xE513C0"
+    arable_land = 90
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_logging_camp = 9
+    }
+}

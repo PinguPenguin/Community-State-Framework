@@ -1,0 +1,19 @@
+﻿STATE_EAST_KARELIA = {
+    id = 139
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0247D2" "x0293D4" "x033057" "x0560D2" "x0AD9DF" "x0C1A92" "x0C5FD4" "x0DC645" "x16DE9A" "x196314" "x1B7C62" "x21C080" "x2283E5" "x22D727" "x2D67C8" "x339F71" "x35B533" "x368E4E" "x39F701" "x3A0477" "x3AC4C7" "x3B75BE" "x3F226D" "x3FC5D1" "x443B00" "x4512FF" "x453179" "x474459" "x4B4532" "x4F103B" "x51278D" "x513767" "x51742F" "x522642" "x52CA86" "x571684" "x5EB463" "x6075CC" "x62BDE9" "x638C43" "x645723" "x690072" "x6A6057" "x6C6E7A" "x6D5719" "x749824" "x779735" "x7A98A2" "x7B7621" "x7B9CDF" "x7BF1F2" "x7C4884" "x7FA4E9" "x8BFEB5" "x8D3928" "x8DCB5A" "x92EA54" "x95B2B5" "x971B98" "x99E798" "x9C07EC" "x9E0C5D" "xA094F1" "xA0C080" "xA3B1C8" "xA53780" "xA857F6" "xAD9554" "xAE6EB5" "xB0726B" "xB0D6F8" "xB3AEF5" "xB7363A" "xB835D3" "xBAB783" "xC080D2" "xC16D56" "xC1710E" "xC20756" "xC37E5B" "xC3FB6E" "xC3FDFD" "xC7ABED" "xC9CF88" "xCB465E" "xCDCF37" "xCF1FC1" "xD2482D" "xD4F727" "xD6546C" "xD8B025" "xD8B610" "xDE65CD" "xDF49EB" "xDFC586" "xE04000" "xE05893" "xE1F130" "xE3121F" "xE3FB9C" "xE53818" "xE5B844" "xE6B3AA" "xE760E6" "xE8E9FB" "xEE749A" "xEF7F4A" "xF13E39" "xF90B99" "xFC0072" "xFE82B9" }
+    traits = { "state_trait_scandinavian_forests" }
+    city = "x474459"
+    port = "xE3121F"
+    farm = "xC16D56"
+    mine = "xA857F6"
+    wood = "xB7363A"
+    arable_land = 10
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 25
+        building_logging_camp = 30
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3039
+}

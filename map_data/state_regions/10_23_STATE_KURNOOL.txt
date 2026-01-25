@@ -1,0 +1,17 @@
+﻿STATE_KURNOOL = {
+    id = 915
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x063403" "x0F1912" "x338BFB" "x34BB3B" "x35AB0E" "x461A00" "x5170A0" "x54D463" "x59BBE1" "x669373" "x84EE56" "xF2F82A" "xF46AEC" "xF91482" }
+    prime_land = { x84EE56 xF91482 }
+    traits = {}
+    city = "x59BBE1"
+    farm = "x338BFB"
+    mine = "xF46AEC"
+    wood = "x34BB3B"
+    arable_land = 63
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_dye_plantation" "building_banana_plantation" "building_silk_plantation" }
+    capped_resources = {
+        building_logging_camp = 9
+        building_iron_mine = 15
+    }
+}

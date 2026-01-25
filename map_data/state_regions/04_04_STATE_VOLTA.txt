@@ -1,0 +1,19 @@
+﻿STATE_VOLTA = {
+    id = 209
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0136A2" "x02C6FC" "x07A8CE" "x098AEC" "x0E3E31" "x1190A0" "x12A8D0" "x1EAC06" "x20DA55" "x334887" "x3BD729" "x4011B4" "x4A242B" "x4CCE99" "x589177" "x589185" "x5BB5E2" "x6012BE" "x6040D0" "x624D5E" "x6C7E40" "x7154F9" "x72F918" "x74936B" "x7A0BFB" "x802190" "x80BF3F" "x847A38" "x87EFE1" "x8A68F2" "x9011A0" "x9064E0" "xA2539E" "xA83043" "xAB99DB" "xB22C30" "xC1D0A4" "xC254B3" "xC58317" "xD15F36" "xD48611" "xD7264E" "xDB8A9E" "xDEAE02" "xDEFD35" "xE156B1" "xE413C3" "xE591D8" "xE5AE46" "xE652E3" "xEE2D7C" "xEFED0D" }
+    traits = { "state_trait_malaria" }
+    city = "xC58317"
+    farm = "x74936B"
+    mine = "x624D5E"
+    wood = "x6012BE"
+    arable_land = 100
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 24
+    }
+}

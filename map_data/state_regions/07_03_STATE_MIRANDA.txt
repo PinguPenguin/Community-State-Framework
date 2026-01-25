@@ -1,0 +1,25 @@
+﻿STATE_MIRANDA = {
+    id = 354
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x01BFD0" "x022930" "x08C971" "x099669" "x0D53B4" "x10DF4E" "x11AC63" "x18DFEA" "x1D5141" "x24CD7D" "x265803" "x2EEF96" "x316874" "x371070" "x3E7DF4" "x41D147" "x48FFFF" "x4A0CB0" "x4A49B3" "x4B48A8" "x4BFF4F" "x52E445" "x5A88D4" "x66F9D3" "x6AD5E2" "x6DA0B1" "x777B24" "x8040D0" "x838543" "x8BB742" "x9204DB" "x9A2756" "x9D84F7" "xA3020D" "xAD68CA" "xAD84B8" "xAED0EC" "xB0F080" "xB80E5A" "xC04011" "xC040D0" "xC8A4B8" "xD2B4D5" "xD4656D" "xDE1F39" "xED7983" "xF085F7" "xF64230" "xFE9918" }
+    city = "xB0F080"
+    port = "x4B48A8"
+    farm = "x18DFEA"
+    mine = "xF085F7"
+    wood = "x9204DB"
+    arable_land = 60
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 7
+        building_fishing_wharf = 5
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 4
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 100
+    }
+    naval_exit_id = 3025
+}

@@ -1,0 +1,17 @@
+﻿STATE_FEZ = {
+    id = 187
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1A55F0" "x5284C8" "x60B040" "x638C69" "x955513" "x99F490" "xA0F040" "xB73221" "xB98CBC" "xD6AD03" "xDF3040" "xE445EF" "xF54743" "xFAE2BB" }
+    city = "xFAE2BB"
+    port = "xD6AD03"
+    farm = "x1A55F0"
+    mine = "xFAE2BB"
+    wood = "x99F490"
+    arable_land = 70
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3089
+}

@@ -1,0 +1,26 @@
+﻿STATE_NORTH_CAUCASUS = {
+    id = 811
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x019041" "x0BDBDA" "x205781" "x23F98B" "x2790A8" "x27E9C3" "x2C776A" "x405080" "x41D080" "x56FD87" "x5C32EA" "x668A47" "x676C0E" "x83F33B" "x9A6A44" "xC05001" "xDA8EF4" "xEE9B40" }
+    city = "x9A6A44"
+    farm = "xEE9B40"
+    mine = "x0BDBDA"
+    wood = "x2790A8"
+    arable_land = 25
+    traits = { "state_trait_caucasus_mountains" }
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 16
+        building_iron_mine = 12
+        building_logging_camp = 25
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 25
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 4
+    }
+}

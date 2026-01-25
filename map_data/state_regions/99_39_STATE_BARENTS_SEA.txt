@@ -1,0 +1,4 @@
+﻿STATE_BARENTS_SEA = {
+    id = 3039
+    provinces = { "x0EC8FA" }
+}

@@ -1,0 +1,16 @@
+﻿STATE_VERMONT = {
+    id = 304
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x142566" "x30F1AF" "x34FFC4" "x38CCDA" "x3FA10D" "xB0C040" }
+    traits = { "state_trait_american_chestnuts" }
+    city = "x34FFC4"
+    farm = "x3FA10D"
+    mine = "x30F1AF"
+    wood = "x34FFC4"
+    arable_land = 25
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" }
+    capped_resources = {
+        building_iron_mine = 18
+        building_logging_camp = 14
+    }
+}

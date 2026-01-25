@@ -1,0 +1,4 @@
+﻿STATE_PACIFIC_LANE_04 = {
+    id = 3011
+    provinces = { "xA87DDC" }
+}

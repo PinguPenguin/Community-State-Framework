@@ -1,0 +1,17 @@
+﻿STATE_AGRA = {
+    id = 918
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x037AF5" "x03A411" "x048AD9" "x117021" "x11EE65" "x13E50E" "x49337F" "x4B6538" "x4E8563" "x51177D" "x53EF28" "x5432BC" "x584C9B" "x61F0A0" "x63AA19" "x6738CF" "x6B646E" "x733AB7" "x7D8325" "x8E6FE7" "x98BACD" "x99FE9A" "xA4A19F" "xAD283F" "xB050DF" "xB4FE19" "xBF1DC0" "xC26B82" "xCF1974" "xDC471F" "xDCAA17" "xE3A5A5" "xE77282" "xF15B70" "xF37EE6" "xFB8F08" "xFBA109" }
+    traits = { "state_trait_ganges_river" }
+    city = "xB050DF"
+    farm = "xB050DF"
+    mine = "xB050DF"
+    wood = "xB050DF"
+    arable_land = 483
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tea_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_coal_mine = 4
+        building_iron_mine = 2
+    }
+}

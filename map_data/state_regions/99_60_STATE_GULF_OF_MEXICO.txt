@@ -1,0 +1,4 @@
+﻿STATE_GULF_OF_MEXICO = {
+    id = 3060
+    provinces = { "x0D74CA" }
+}

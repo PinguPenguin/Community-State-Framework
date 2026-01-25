@@ -1,0 +1,4 @@
+﻿STATE_CENTRAL_MEDITERRANEAN_SEA = {
+    id = 3033
+    provinces = { "x3BDCFA" }
+}

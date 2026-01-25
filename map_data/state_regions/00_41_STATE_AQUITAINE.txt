@@ -1,0 +1,18 @@
+﻿STATE_AQUITAINE = {
+    id = 44
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x073FC4" "x5F7F2D" "x606DEC" "x6E16BB" "x70A080" "x76BA85" "xA220D0" "xBBF036" "xCD8E77" "xD957E6" "xF02080" "xF0A080" }
+    city = "xBBF036"
+    port = "x6E16BB"
+    farm = "x70A080"
+    mine = "xF02080"
+    wood = "xCD8E77"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 70
+        building_logging_camp = 14
+        building_fishing_wharf = 11
+    }
+    naval_exit_id = 3029
+}

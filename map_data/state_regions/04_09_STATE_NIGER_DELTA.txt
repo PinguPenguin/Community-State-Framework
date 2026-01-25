@@ -1,0 +1,22 @@
+﻿STATE_NIGER_DELTA = {
+    id = 214
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x016090" "x01A050" "x1B328B" "x255D8A" "x337660" "x4D3C3A" "x553813" "x80A090" "x8B459B" "x90B6CB" "x93634A" "x938816" "xA8A592" "xC82CCC" "xD16652" "xD8056B" }
+    traits = { "state_trait_malaria" "state_trait_niger_river" }
+    city = "x255D8A"
+    port = "x01A050"
+    farm = "xA8A592"
+    mine = "xD8056B"
+    wood = "x4D3C3A"
+    arable_land = 120
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 11
+        building_fishing_wharf = 10
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 22
+    }
+    naval_exit_id = 3091
+}

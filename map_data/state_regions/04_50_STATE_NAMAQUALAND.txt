@@ -1,0 +1,19 @@
+﻿STATE_NAMAQUALAND = {
+    id = 255
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x0110CC" "x071B9C" "x078A45" "x14E0BE" "x153812" "x15D768" "x1CB738" "x1FDB07" "x21DD01" "x2BF7F9" "x30C050" "x310FAB" "x3CEB63" "x461811" "x495827" "x4CA340" "x509BE4" "x53CC81" "x59895A" "x6D4B24" "x75A3C7" "x76EB28" "x79558D" "x7AC60C" "x7B1965" "x8031D0" "x8947C8" "x8BFB79" "x8D6395" "x8FA699" "x90470A" "x941F1C" "x945542" "x952547" "x9C401C" "xA4D764" "xA675EF" "xA7D909" "xAD1C61" "xAE08D3" "xB0C0D0" "xB1A012" "xB30706" "xB4D966" "xB66BA7" "xB74897" "xB81EA9" "xBA329D" "xBA68AA" "xBEF6A8" "xBF1B94" "xC80AD0" "xCDCBC6" "xD65EC0" "xDEAA3C" "xE0CFF7" "xE1AA90" "xE1E7FB" "xE4DABE" "xE6D4ED" "xEAB4ED" "xEC2F99" "xEE0812" "xF0C050" "xF47B63" }
+    traits = { "state_trait_severe_malaria" }
+    city = "xAD1C61"
+    port = "x495827"
+    farm = "xEC2F99"
+    mine = "xB0C0D0"
+    wood = "xE4DABE"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_logging_camp = 4
+        building_fishing_wharf = 7
+    }
+    naval_exit_id = 3105
+}

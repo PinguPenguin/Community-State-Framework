@@ -1,0 +1,19 @@
+﻿STATE_TURKMENIA = {
+    id = 446
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x04E3CF" "x07D17B" "x08AD1A" "x093730" "x0AE41D" "x0C18E0" "x1046AA" "x109507" "x10D051" "x182A2C" "x184E72" "x18C1D8" "x1E5E98" "x1F432E" "x21CDD7" "x2D73A6" "x2E361B" "x3982B1" "x39988A" "x3AE9D8" "x3FC76E" "x4253A8" "x42BBE7" "x43C9E9" "x45531B" "x4758E8" "x476DEC" "x4B2949" "x4C919C" "x4D1581" "x521ED8" "x59E155" "x5C4C11" "x5E1CDC" "x5FF9CD" "x62E34E" "x645473" "x6E6ED2" "x6E71E4" "x7234E4" "x72E5D4" "x7751AF" "x7FBBC9" "x8011C0" "x818A90" "x85B179" "x862BA1" "x87AA70" "x8D267A" "x8E76F9" "x90EADD" "x9834F7" "x9868A3" "x9A0BDB" "x9B1898" "x9B9882" "x9D2475" "x9D4820" "x9E20EF" "xA63721" "xA89A25" "xAD9C38" "xB0CFEC" "xB402D5" "xB9040B" "xB9F093" "xB9F803" "xBB10AF" "xBC072D" "xBFAFA0" "xC131A1" "xC3C5CE" "xC57238" "xC62005" "xCF3B0F" "xD00821" "xD1F3DF" "xD81EAD" "xDA5251" "xE0A7FF" "xE4A58D" "xE4C351" "xE5817B" "xE64B27" "xEA083E" "xEA5990" "xEE6836" "xF0796E" "xF2391B" "xF3BF3F" "xFFCBC4" }
+    city = "x3AE9D8"
+    farm = "xD1F3DF"
+    mine = "xCF3B0F"
+    wood = "x5E1CDC"
+    arable_land = 25
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_silk_plantation" "building_opium_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 40
+        building_logging_camp = 2
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+}

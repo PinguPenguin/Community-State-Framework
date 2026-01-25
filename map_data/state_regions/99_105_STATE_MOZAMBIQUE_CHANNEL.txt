@@ -1,0 +1,4 @@
+﻿STATE_MOZAMBIQUE_CHANNEL = {
+    id = 3107
+    provinces = { "x4FDDFB" }
+}

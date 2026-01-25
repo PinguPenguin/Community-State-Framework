@@ -1,0 +1,18 @@
+﻿STATE_NORTHERN_THRACE = {
+    id = 112
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0DE556" "x15CDCD" "x455522" "x6E7192" "x7121A0" "x95BCE8" "x9D0D6C" "xAF56D0" "xC7D441" "xF021A0" "xF0A0E0" }
+    city = "xF021A0"
+    port = "x7121A0"
+    farm = "xF021A0"
+    mine = "x95BCE8"
+    wood = "x6E7192"
+    arable_land = 30
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 33
+        building_logging_camp = 17
+        building_fishing_wharf = 6
+    }
+    naval_exit_id = 3036
+}

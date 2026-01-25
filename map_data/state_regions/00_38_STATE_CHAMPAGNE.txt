@@ -1,0 +1,16 @@
+﻿STATE_CHAMPAGNE = {
+    id = 41
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x4B7684" "x5FEA2F" "x600883" "x669027" "x8AE8D1" "xD6A06D" "xE280FC" "xEF00DF" "xEF40A0" "xEFBF20" }
+    traits = { "state_trait_great_terroir" }
+    city = "xD6A06D"
+    farm = "xEF00DF"
+    mine = "xEFBF20"
+    wood = "x600883"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_logging_camp = 11
+    }
+}

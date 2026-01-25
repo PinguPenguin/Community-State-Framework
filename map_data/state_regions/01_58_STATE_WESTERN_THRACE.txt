@@ -1,0 +1,18 @@
+﻿STATE_WESTERN_THRACE = {
+    id = 128
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0261AB" "x6181D2" "x702020" "xB2249C" "xBE51B7" "xEDECFB" "xF02020" }
+    city = "xEDECFB"
+    port = "xF02020"
+    farm = "xBE51B7"
+    mine = "xB2249C"
+    wood = "xBE51B7"
+    arable_land = 20
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 27
+        building_logging_camp = 5
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3035
+}

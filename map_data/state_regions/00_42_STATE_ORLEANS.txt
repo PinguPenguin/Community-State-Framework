@@ -1,0 +1,15 @@
+﻿STATE_ORLEANS = {
+    id = 45
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x14F855" "x47B641" "x50CE72" "x6E4717" "x886277" "x90A0C0" "x90E000" "xD8BA95" "xE13BC2" "xE3E249" "xE7B296" "xF0E39E" "xF522D9" }
+    traits = { "state_trait_loire_river" "state_trait_good_soils" }
+    city = "x47B641"
+    farm = "x50CE72"
+    mine = "x90A0C0"
+    wood = "x90E000"
+    arable_land = 70
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 7
+    }
+}

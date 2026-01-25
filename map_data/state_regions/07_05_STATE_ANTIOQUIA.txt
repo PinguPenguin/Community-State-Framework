@@ -1,0 +1,28 @@
+﻿STATE_ANTIOQUIA = {
+    id = 356
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x004090" "x008396" "x0589F6" "x070E0D" "x0910A0" "x10C9C0" "x13EF21" "x15E0DF" "x18EF89" "x213960" "x303844" "x381BD3" "x411E95" "x49C3E3" "x4E89E7" "x51DE36" "x52CED6" "x547FFD" "x5A7C3B" "x5F834B" "x685D84" "x6A4C0A" "x70B001" "x74A433" "x7AE883" "x7CFCA6" "x7D98B1" "x80C090" "x836854" "x87A5C6" "x8EE105" "x8FB1CC" "x8FBCCC" "x90A9AC" "x965A2E" "x9AD1C5" "x9B19D7" "x9B8691" "xA15905" "xA36731" "xA390B8" "xB93E39" "xB979D3" "xC564C3" "xCB17CD" "xD07040" "xD74F86" "xDBC5D5" "xE393EC" "xEAF021" "xF0735E" "xF16BCF" "xF2F0CC" "xF7A68F" "xFA208C" "xFCF1C1" "xFF4809" }
+    traits = { "state_trait_andes" }
+    city = "xD07040"
+    port = "x303844"
+    farm = "x4E89E7"
+    mine = "x80C090"
+    wood = "xB979D3"
+    arable_land = 120
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 32
+        building_iron_mine = 36
+        building_logging_camp = 13
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3025
+}

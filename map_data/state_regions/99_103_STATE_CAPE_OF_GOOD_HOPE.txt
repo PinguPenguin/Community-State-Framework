@@ -1,0 +1,4 @@
+﻿STATE_CAPE_OF_GOOD_HOPE = {
+    id = 3105
+    provinces = { "x56C9FB" }
+}

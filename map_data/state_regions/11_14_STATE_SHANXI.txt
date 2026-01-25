@@ -1,0 +1,22 @@
+﻿STATE_SHANXI = {
+    id = 491
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x04647B" "x092D9A" "x0F7841" "x102702" "x149A35" "x1A2B77" "x21C69F" "x2BAB5F" "x2E1AF5" "x2E331F" "x352689" "x406C38" "x41D423" "x554E31" "x5DD6C0" "x62F096" "x6A2320" "x703060" "x71F0A0" "x771E37" "x778646" "x7EECDC" "x7F5143" "x9090C0" "xA0F6F6" "xA3D4C9" "xA892F9" "xB53053" "xB63C5E" "xBBD804" "xBDBFAF" "xBDF913" "xC933A2" "xD09041" "xD29750" "xE75A35" "xE79EED" "xF141F6" "xF45F74" "xF87F8F" "xFA7945" }
+    traits = { "state_trait_the_loess_plateau" "state_trait_yellow_river" }
+    city = "xF87F8F"
+    farm = "x62F096"
+    mine = "x2BAB5F"
+    wood = "x2E331F"
+    arable_land = 375
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 116
+        building_iron_mine = 96
+        building_sulfur_mine = 48
+        building_logging_camp = 7
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 30
+    }
+}

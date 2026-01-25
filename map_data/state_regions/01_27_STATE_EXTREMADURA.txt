@@ -1,0 +1,17 @@
+﻿STATE_EXTREMADURA = {
+    id = 102
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x009020" "x30A000" "x342BE6" "x4A8E78" "x506000" "x679A01" "x7500D4" "x97FBA4" "xB4471A" "xC694C3" "xE47DCF" "xF19B02" }
+    traits = { "state_trait_tagus_river" }
+    city = "x679A01"
+    farm = "xF19B02"
+    mine = "x7500D4"
+    wood = "x30A000"
+    arable_land = 34
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" "building_tobacco_plantation" }
+    capped_resources = {
+        building_logging_camp = 13
+        building_sulfur_mine = 4
+        building_iron_mine = 2
+    }
+}

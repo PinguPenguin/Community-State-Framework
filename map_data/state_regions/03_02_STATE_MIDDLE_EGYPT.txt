@@ -1,0 +1,18 @@
+﻿STATE_MIDDLE_EGYPT = {
+    id = 177
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x08B43B" "x0EBC9F" "x11D0E0" "x5050E0" "x50D060" "x69472D" "x78104A" "x908F20" "x919B7D" "xA050A0" "xA41CF4" "xC35ABD" "xC7858D" "xD39096" "xF01121" }
+    traits = { "state_trait_nile_river" }
+    city = "x08B43B"
+    port = "xA41CF4"
+    farm = "x50D060"
+    mine = "xA41CF4"
+    wood = "x50D060"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 4
+    }
+    naval_exit_id = 3047
+}

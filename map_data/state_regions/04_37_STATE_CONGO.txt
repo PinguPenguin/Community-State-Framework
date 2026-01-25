@@ -1,0 +1,27 @@
+﻿STATE_CONGO = {
+    id = 242
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x016011" "x03C590" "x05BF28" "x077290" "x0866D6" "x0A0CBB" "x0D9789" "x0EBA9B" "x195E39" "x19AA2E" "x1A7B4E" "x1D4C74" "x201389" "x210FAD" "x26580C" "x269731" "x269967" "x2A3008" "x301D08" "x34850C" "x376A4C" "x38E47B" "x3C6925" "x3F47E3" "x406070" "x4513A5" "x48E66E" "x4B6E4C" "x552D48" "x55BFC9" "x575F05" "x580A3E" "x5DCFB4" "x6471E0" "x6854CF" "x6A382D" "x6D11B0" "x6E6C27" "x6E7168" "x726BE0" "x727CDE" "x72B2C2" "x80E0F0" "x824974" "x82767A" "x8D5A30" "x9541B7" "x956FF5" "x981D9F" "x989470" "x99D4CE" "xA0F4A3" "xA415F8" "xAB75C7" "xABF62E" "xB1B163" "xB63B70" "xB6445A" "xC49255" "xCE7962" "xCF9269" "xD08B97" "xDEE98A" "xE383BC" "xE79CE4" "xEA0570" "xF90B80" "xFFA7D7" }
+    traits = { "state_trait_severe_malaria" "state_trait_congo_river" "state_trait_congo_forest" }
+    city = "xE383BC"
+    port = "x406070"
+    farm = "x80E0F0"
+    mine = "x4B6E4C"
+    wood = "x6E7168"
+    arable_land = 50
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 48
+        building_logging_camp = 25
+        building_fishing_wharf = 4
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 60
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 5
+    }
+    naval_exit_id = 3104
+}

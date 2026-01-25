@@ -1,0 +1,18 @@
+﻿STATE_BAJA_CALIFORNIA = {
+    id = 337
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x0418C4" "x0D1D9D" "x11D494" "x1E47C8" "x205040" "x21AA9D" "x247143" "x249043" "x3FF655" "x567116" "x57EBCB" "x5B4ABD" "x6320AE" "x657B7B" "x7546F8" "x90DF58" "x9F7207" "xA1B232" "xB0A278" "xBC4223" "xBED6FE" "xC42EA6" "xC642C3" "xD34672" "xD4D12E" "xD5E26E" "xDD6E50" "xF8AB7F" }
+    city = "x205040"
+    port = "x57EBCB"
+    farm = "x205040"
+    mine = "xD5E26E"
+    wood = "xF8AB7F"
+    arable_land = 20
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 6
+        building_whaling_station = 4
+    }
+    naval_exit_id = 3153
+}

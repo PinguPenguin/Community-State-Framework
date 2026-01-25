@@ -1,0 +1,16 @@
+﻿STATE_MAINE_ANJOU = {
+    id = 970
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x093DF5" "x192CA5" "x30E080" "x56E158" "x6B5474" "x7CAE05" "xB0E080" "xD02040" "xF6A48C" }
+    traits = { "state_trait_loire_river" }
+    city = "x093DF5"
+    farm = "x192CA5"
+    mine = "x30E080"
+    wood = "x6B5474"
+    arable_land = 112
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 30
+        building_logging_camp = 11
+    }
+}

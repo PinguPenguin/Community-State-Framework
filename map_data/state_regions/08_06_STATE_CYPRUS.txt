@@ -1,0 +1,24 @@
+﻿STATE_CYPRUS = {
+    id = 404
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x40B020" "x79685E" "xBF3020" }
+    city = "x40B020"
+    port = "xBF3020"
+    farm = "x79685E"
+    mine = "x79685E"
+    wood = "x79685E"
+    arable_land = 9
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 5
+        building_iron_mine = 5 # Copper
+
+
+
+
+
+        building_sulfur_mine = 5
+    }
+    naval_exit_id = 3034
+}

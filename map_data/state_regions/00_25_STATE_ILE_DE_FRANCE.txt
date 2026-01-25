@@ -1,0 +1,15 @@
+﻿STATE_ILE_DE_FRANCE = {
+    id = 28
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x12462D" "x7080DF" "x71DA2E" "x906000" }
+    traits = { "state_trait_seine_river" "state_trait_good_soils" }
+    city = "x906000"
+    farm = "x12462D"
+    mine = "x906000"
+    wood = "x7080DF"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 4
+    }
+}

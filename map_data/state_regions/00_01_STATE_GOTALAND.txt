@@ -1,0 +1,19 @@
+﻿STATE_GOTALAND = {
+    id = 2
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0212F4" "x04C53E" "x06D48F" "x1B711F" "x2B5590" "x31D8B4" "x4040DF" "x41C061" "x41C0E0" "x4539F8" "x46568F" "x6C9F3E" "x71C4AC" "x786C46" "x90B30A" "xA00120" "xA0DB88" "xA67CC8" "xB714A1" "xB7733E" "xC62E6A" "xCD8A76" "xDFD8A5" "xE5A269" "xE70DB3" "xEA7E80" "xFCBE2E" }
+    traits = { "state_trait_scandinavian_forests" }
+    city = "x90B30A"
+    port = "x41C0E0"
+    farm = "x0212F4"
+    mine = "xA67CC8"
+    wood = "xEA7E80"
+    arable_land = 35
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_logging_camp = 25
+        building_fishing_wharf = 15
+    }
+    naval_exit_id = 3019
+}

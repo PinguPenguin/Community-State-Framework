@@ -1,0 +1,17 @@
+﻿STATE_ALAND = {
+    id = 1021
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x459052" "xE04161" }
+    city = "xE04161"
+    port = "x459052"
+    farm = "x459052"
+    mine = "x459052"
+    wood = "x459052"
+    arable_land = 2
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 2
+        building_fishing_wharf = 2
+    }
+    naval_exit_id = 3000
+}

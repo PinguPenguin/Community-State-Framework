@@ -1,0 +1,17 @@
+﻿STATE_KIEV = {
+    id = 135
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x01E0E0" "x022620" "x1121A0" "x11F253" "x18E9E1" "x1C7F2D" "x2472F3" "x2C6218" "x2D80BA" "x2E05DE" "x31F90F" "x33471E" "x46B48F" "x4700D0" "x4C92CC" "x4D686A" "x54B5C4" "x6168EB" "x6AC779" "x7161A0" "x7DA787" "x7DF67D" "x82AE2F" "x884128" "x8CE323" "x905D21" "x98E808" "x9B1B0B" "xA8600B" "xA9FA61" "xBD8617" "xCD2CE5" "xD5E7D2" "xD6537D" "xD8EA8C" "xDD790F" "xE2B51B" "xE6AF95" "xE996D1" "xEA1E16" "xF061A0" "xF0E021" "xF9066A" "xFF7D57" }
+    traits = { "state_trait_black_soil" "state_trait_dnieper_river" }
+    city = "x8CE323"
+    farm = "x2472F3"
+    mine = "xCD2CE5"
+    wood = "x54B5C4"
+    arable_land = 175
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 36
+        building_iron_mine = 14
+        building_logging_camp = 32
+    }
+}

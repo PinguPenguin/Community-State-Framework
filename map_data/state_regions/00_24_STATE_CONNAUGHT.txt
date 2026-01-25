@@ -1,0 +1,18 @@
+﻿STATE_CONNAUGHT = {
+    id = 27
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x20E0C0" "x5DEF58" "x641238" "x656D90" "x85F13B" "xA060C0" "xC7847D" "xE5C4FE" }
+    city = "xC7847D"
+    port = "x5DEF58"
+    farm = "xA060C0"
+    mine = "x641238"
+    wood = "x20E0C0"
+    arable_land = 75
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_sulfur_mine = 48
+        building_logging_camp = 7
+        building_fishing_wharf = 4
+    }
+    naval_exit_id = 3030
+}

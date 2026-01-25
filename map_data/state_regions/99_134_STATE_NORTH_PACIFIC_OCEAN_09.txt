@@ -1,0 +1,4 @@
+﻿STATE_NORTH_PACIFIC_OCEAN_09 = {
+    id = 3138
+    provinces = { "xA63FD5" }
+}

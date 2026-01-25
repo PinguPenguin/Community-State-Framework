@@ -1,0 +1,17 @@
+﻿STATE_CAMPANIA = {
+    id = 82
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0E8BCC" "x214415" "x4090A0" "x73CE17" "x890469" "xDF1CE3" }
+    city = "x214415"
+    port = "xDF1CE3"
+    farm = "x73CE17"
+    mine = "xDF1CE3"
+    wood = "x890469"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_sugar_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 11
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3032
+}

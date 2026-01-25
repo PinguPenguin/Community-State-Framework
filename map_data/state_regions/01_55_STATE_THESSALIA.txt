@@ -1,0 +1,17 @@
+﻿STATE_THESSALIA = {
+    id = 125
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x01D0E0" "x18C9AD" "x8050E0" "x80D060" "xACFFA7" "xE6E868" }
+    city = "x80D060"
+    port = "xACFFA7"
+    farm = "x80D060"
+    mine = "x8050E0"
+    wood = "x01D0E0"
+    arable_land = 50
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 11
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3034
+}

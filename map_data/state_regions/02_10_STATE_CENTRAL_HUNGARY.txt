@@ -1,0 +1,17 @@
+﻿STATE_CENTRAL_HUNGARY = {
+    id = 163
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x063C9D" "x109F9F" "x5060DF" "x51E0E0" "x542689" "x5C685C" "x629512" "x715A29" "x764B36" "x846165" "x90A0A0" "x920D5A" "x93A8CA" "x99AEF4" "xAB6CAC" "xB1D348" "xC97829" "xCA364D" "xD061E0" }
+    traits = { "state_trait_danube_river" "state_trait_pannonian_plain" }
+    city = "x5C685C"
+    farm = "x51E0E0"
+    mine = "xC97829"
+    wood = "x93A8CA"
+    arable_land = 110
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 20
+        building_iron_mine = 30
+        building_logging_camp = 6
+    }
+}

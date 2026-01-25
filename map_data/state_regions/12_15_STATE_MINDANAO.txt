@@ -1,0 +1,23 @@
+﻿STATE_MINDANAO = {
+    id = 552
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0180F0" "x2D5E65" "x355FBE" "x4C67A7" "x585200" "x62D16D" "x678557" "x7B364D" "x988CCA" "x99D030" "xAA1CA3" "xBC5002" "xC3EC2D" "xCAFE73" "xE804B7" "xE90347" "xF0014A" }
+    impassable = { "x0180F0" }
+    city = "x2D5E65"
+    port = "xF0014A"
+    farm = "xBC5002"
+    mine = "x4C67A7"
+    wood = "xCAFE73"
+    arable_land = 40
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 36
+        building_logging_camp = 14
+        building_fishing_wharf = 8
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 10
+    }
+    naval_exit_id = 3055
+}

@@ -1,0 +1,20 @@
+﻿STATE_BAJO_PARAGUAY = {
+    id = 373
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x088648" "x0B832C" "x0E946E" "x0F5F2B" "x0FC5DF" "x1DCC94" "x2594A3" "x334783" "x361EE6" "x3674BC" "x369F44" "x4DC624" "x4F8725" "x5A795B" "x651796" "x73B395" "x8D0A9E" "x9CDC33" "xB63BAD" "xB74540" "xBF51C8" "xC4AB87" "xCB6C17" "xCCC385" "xCD1E44" "xCD1FE6" "xCD9F44" "xF4DD1F" "xF72535" "xFBD28B" "xFCD325" }
+    traits = { "state_trait_paraguay_river" }
+    city = "xB63BAD"
+    farm = "xCB6C17"
+    mine = "xF72535"
+    wood = "x2594A3"
+    arable_land = 120
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_logging_camp = 14
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+}

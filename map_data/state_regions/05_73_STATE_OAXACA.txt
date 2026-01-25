@@ -1,0 +1,29 @@
+﻿STATE_OAXACA = {
+    id = 673
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x08E7F6" "x1616D8" "x1BC4D0" "x2113D8" "x3A8CF5" "x44D03C" "x460749" "x502C96" "x51A981" "x651EB1" "x8293A6" "x90B040" "x90B0C0" "x98D949" "xA095E4" "xA547C9" "xAF030C" "xC0C070" "xC83AE5" "xD30430" }
+    traits = { "state_trait_sierra_madre_oriental" }
+    city = "x44D03C"
+    port = "xC83AE5"
+    farm = "x90B040"
+    mine = "x08E7F6"
+    wood = "xC83AE5"
+    arable_land = 120
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_coal_mine = 24
+        building_lead_mine = 15
+        building_logging_camp = 7
+        building_fishing_wharf = 4
+    }
+    resource = {
+        type = "building_gold_field"
+        depleted_type = "building_gold_mine"
+        undiscovered_amount = 2
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 6
+    }
+    naval_exit_id = 3155
+}

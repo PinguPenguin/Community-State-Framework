@@ -1,0 +1,18 @@
+﻿STATE_HIMALAYAS = {
+    id = 455
+    subsistence_building = "building_subsistence_rice_farm"
+    impassable = { "x23C36A" "x4DE9D5" "x920B51" }
+    provinces = { "x11C815" "x1619ED" "x1C3876" "x213060" "x218FFE" "x23C36A" "x25994F" "x29576A" "x4874D9" "x4D5FC1" "x4DE9D5" "x515E66" "x605021" "x6E233E" "x73C2C6" "x812FBE" "x833D63" "x920B51" "xA228F8" "xA2C234" "xA5D1EB" "xAF11F0" "xAF5B29" "xBCD18E" "xC13072" "xC1C87A" "xC1DA32" "xC6179B" "xC6D4A8" "xCE4DAE" "xDA8130" "xE18F72" "xE51929" }
+    traits = { "state_trait_himalayas_mountains" }
+    city = "x1619ED"
+    farm = "xA228F8"
+    mine = "x29576A"
+    wood = "xC6D4A8"
+    arable_land = 111
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_logging_camp = 10
+        building_lead_mine = 8
+        building_iron_mine = 8
+    }
+}

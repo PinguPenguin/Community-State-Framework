@@ -1,0 +1,16 @@
+﻿STATE_CENTRAL_HIGHLANDS = {
+    id = 450
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x04B03F" "x09828D" "x0EE28B" "x18B003" "x27FE11" "x2F26B8" "x4414C8" "x4F1DA7" "x548EAA" "x5C6E60" "x60B0A0" "x68901F" "x6DBF4A" "x6F8118" "x7AA1D1" "x7FED21" "x8831D3" "x8FACBC" "x938A92" "x99A835" "xA45DA0" "xAD7935" "xAF1A31" "xB6EB52" "xDB584F" "xDC008F" "xE8122E" }
+    city = "xAD7935"
+    farm = "x68901F"
+    mine = "x0EE28B"
+    wood = "x99A835"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_opium_plantation" "building_tea_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 16
+        building_lead_mine = 8
+        building_logging_camp = 4
+    }
+}

@@ -1,0 +1,22 @@
+﻿STATE_NAKHON_RATCHASIMA = {
+    id = 522
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x01D94F" "x0A49C7" "x108DB4" "x1417E7" "x18C6F5" "x1CFFD0" "x23B4B7" "x29EB28" "x311E4F" "x37DC38" "x449632" "x45FABD" "x4B58FD" "x4E9753" "x50CE4E" "x56E44C" "x57E793" "x5C3070" "x62B39D" "x6BB1AD" "x6FC6A1" "x707020" "x732208" "x742F1F" "x8795AE" "x9030DF" "x934893" "x9E031E" "xA3D6B8" "xA4A851" "xB30E09" "xB48097" "xB9C742" "xBF6988" "xC90993" "xCD871B" "xEAD71D" "xF22DE6" "xFB1F7E" }
+    traits = { "state_trait_indochinese_forest" }
+    city = "x37DC38"
+    port = "x9030DF"
+    farm = "x56E44C"
+    mine = "xA3D6B8"
+    wood = "x1CFFD0"
+    arable_land = 40
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 25
+        building_fishing_wharf = 6
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 2
+    }
+    naval_exit_id = 3053
+}

@@ -1,0 +1,4 @@
+﻿STATE_BLACK_SEA = {
+    id = 3036
+    provinces = { "x48FAFA" }
+}

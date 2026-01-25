@@ -1,0 +1,22 @@
+﻿STATE_BASRA = {
+    id = 413
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x00F060" "x1CC9CC" "x1D7F5E" "x2050E0" "x41F864" "x68C89A" "x6CBE21" "x7CAD29" "x807060" "x88ADC8" "x93CB74" "x9F9CCA" "xBE6A23" "xDABB9C" "xDB6370" "xF1BF17" "xFE18C1" }
+    traits = { "state_trait_mesopotamian_floodplain" "state_trait_tigris_river" "state_trait_euphrates_river" }
+    city = "x807060"
+    port = "x00F060"
+    farm = "x9F9CCA"
+    mine = "x88ADC8"
+    wood = "x7CAD29"
+    arable_land = 30
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_tobacco_plantation" }
+    capped_resources = {
+        building_sulfur_mine = 32
+        building_fishing_wharf = 6
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 60
+    }
+    naval_exit_id = 3046
+}

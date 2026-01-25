@@ -1,0 +1,21 @@
+﻿STATE_MEXICO = {
+    id = 332
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0A1D52" "x0EBDEC" "x10B040" "x10B080" "x204077" "x3A857C" "x44E6F0" "x51EB34" "x5A4C5B" "x5A9469" "x5B5167" "x6BEB21" "x6EFE9A" "x903040" "xCC93D9" "xD5F2F8" }
+    traits = { "state_trait_sierra_madre_oriental" }
+    city = "x0EBDEC"
+    farm = "x5A9469"
+    mine = "x6BEB21"
+    wood = "x10B080"
+    arable_land = 160
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 9
+        building_lead_mine = 12
+        building_logging_camp = 7
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 8
+    }
+}

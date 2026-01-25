@@ -1,0 +1,19 @@
+﻿STATE_TRABZON = {
+    id = 430
+    subsistence_building = "building_subsistence_farm"
+    traits = { "state_trait_pontus" }
+    provinces = { "x001080" "x009080" "x1357F8" "x146DD9" "x288BCD" "x809080" "x9655BD" "xA88EEC" "xAE07E3" "xB526B3" }
+    city = "x146DD9"
+    port = "x9655BD"
+    farm = "x809080"
+    mine = "x001080"
+    wood = "x9655BD"
+    arable_land = 40
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_logging_camp = 8
+        building_fishing_wharf = 9
+    }
+    naval_exit_id = 3036
+}

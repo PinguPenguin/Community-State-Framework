@@ -1,0 +1,21 @@
+﻿STATE_KHARKOV = {
+    id = 143
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0319ED" "x04E110" "x0708A3" "x0B484F" "x1458A6" "x14786A" "x1CB8D8" "x270CD8" "x2C6090" "x36D880" "x3ACCE8" "x3C304D" "x46BD2E" "x4C5706" "x628FBE" "x7EAE07" "x817D22" "x9C070F" "xA0A57F" "xAD965B" "xBBC6BF" "xBC52ED" "xBCC260" "xC482AD" "xCB4129" "xCD72A1" "xD0DA95" "xDAAE11" "xE08061" "xE682D3" "xE6CADD" "xF061E0" "xFA0D5E" "xFC92C5" }
+    traits = { "state_trait_black_soil" "state_trait_dnieper_river" }
+    city = "xFA0D5E"
+    farm = "xD0DA95"
+    mine = "x628FBE"
+    wood = "x1CB8D8"
+    arable_land = 150
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_iron_mine = 28
+        building_logging_camp = 20
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 12
+    }
+}

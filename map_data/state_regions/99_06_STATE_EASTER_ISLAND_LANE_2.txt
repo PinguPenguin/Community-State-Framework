@@ -1,0 +1,4 @@
+﻿STATE_EASTER_ISLAND_LANE_2 = {
+    id = 3006
+    provinces = { "x6644E1" }
+}

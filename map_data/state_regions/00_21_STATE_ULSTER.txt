@@ -1,0 +1,17 @@
+﻿STATE_ULSTER = {
+    id = 24
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0A38AF" "x20E040" "x2BE1C8" "x688E79" "xA06040" "xA0C0E0" "xAA6FA1" "xCFCD2B" }
+    city = "x688E79"
+    port = "x2BE1C8"
+    farm = "x20E040"
+    mine = "xA06040"
+    wood = "xCFCD2B"
+    arable_land = 130
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 6
+        building_fishing_wharf = 11
+    }
+    naval_exit_id = 3030
+}

@@ -1,0 +1,23 @@
+﻿STATE_LOS_RIOS = {
+    id = 383
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x02C052" "x10C050" "x142AEF" "x1A5ED2" "x24D8BD" "x29AFD4" "x304688" "x31F03F" "x3D3ED8" "x427820" "x42A6B5" "x49F9FC" "x83D701" "x8848C6" "x904050" "x9040D0" "x90C050" "x90C0D0" "x9DA2FB" "xA316F5" "xAAA21B" "xB72711" "xCFB481" "xD78C29" "xDAE7CA" "xE70539" "xE855B1" "xF0CA34" "xF2263F" "xF63FA0" "xF68D31" }
+    impassable = { "x31F03F" "x24D8BD" "x304688" "xD78C29" }
+    traits = { "state_trait_andes" "state_trait_cordillera_de_la_costa" "state_trait_longitudinal_valley" }
+    city = "x904050"
+    port = "x9040D0"
+    farm = "x90C0D0"
+    mine = "x427820"
+    wood = "x83D701"
+    arable_land = 70
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_sugar_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 60
+        building_lead_mine = 24
+        building_sulfur_mine = 32
+        building_logging_camp = 20
+        building_whaling_station = 3
+        building_fishing_wharf = 10
+    }
+    naval_exit_id = 3152
+}

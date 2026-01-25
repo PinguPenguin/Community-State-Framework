@@ -1,0 +1,19 @@
+﻿STATE_ZULULAND = {
+    id = 257
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x11A090" "x1A084B" "x279045" "x3B4B19" "x3CED3D" "x41C070" "x552449" "x5B124F" "x6DB7E8" "x7ACC38" "x85695F" "x88FAD4" "x8C39B6" "x904EBE" "x9E9742" "xB1F868" "xB6892A" "xBBCA32" "xBE6FEE" "xBFA16B" "xCD31DB" "xD121F1" "xDE0EDE" "xE0EB02" "xE1E455" "xE1EAA4" "xE882CE" "xF06050" "xFF0EF1" }
+    traits = { "state_trait_malaria" }
+    city = "x41C070"
+    port = "x279045"
+    farm = "x88FAD4"
+    mine = "xE1E455"
+    wood = "x7ACC38"
+    arable_land = 40
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_banana_plantation" "building_vineyard" }
+    capped_resources = {
+        building_coal_mine = 72
+        building_logging_camp = 11
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3106
+}

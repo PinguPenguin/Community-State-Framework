@@ -1,0 +1,17 @@
+﻿STATE_DELAWARE = {
+    id = 1023
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x708000" "xEBA646" }
+    city = "xEBA646"
+    port = "xEBA646"
+    farm = "xEBA646"
+    mine = "xEBA646"
+    wood = "xEBA646"
+    arable_land = 15
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3067
+}

@@ -1,0 +1,24 @@
+﻿# Burma
+
+STATE_TENASSERIM = {
+    id = 523
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x169A4D" "x173AAB" "x1BB979" "x2160CF" "x2231CD" "x289F37" "x31852E" "x3911C1" "x3F4145" "x47B039" "x5070E0" "x59E0CA" "x6D56E2" "x7F8C95" "x8000B0" "x9381F1" "x94B7B9" "x958E99" "x9E6CEE" "x9F6BAC" "xA060D0" "xB36203" "xBE9208" "xC0362D" "xC6D6FB" "xD070DF" "xD0EF60" "xFB4ADA" "xFE3639" }
+    city = "x5070E0"
+    port = "xB36203"
+    farm = "x31852E"
+    mine = "x2160CF"
+    wood = "x47B039"
+    arable_land = 20
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 17
+        building_fishing_wharf = 12
+        building_iron_mine = 5
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 16
+    }
+    naval_exit_id = 3051
+}

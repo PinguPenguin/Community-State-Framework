@@ -1,0 +1,14 @@
+﻿STATE_GUYENNE = {
+    id = 37
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x061121" "x086618" "x106080" "x306000" "x30E000" "x5020C0" "x7BCDC4" "xA2BBE9" "xAF89BC" "xB06000" "xC8CD2F" "xF3D359" }
+    city = "xA2BBE9"
+    farm = "xB06000"
+    mine = "x106080"
+    wood = "xC8CD2F"
+    arable_land = 90
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 9
+    }
+}

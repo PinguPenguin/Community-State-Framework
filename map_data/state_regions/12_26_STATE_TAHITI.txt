@@ -1,0 +1,20 @@
+﻿STATE_TAHITI = {
+    id = 557
+    subsistence_building = "building_subsistence_fishing_village"
+    provinces = { "x0181B0" "x2A4340" "x2C2E13" "x42432A" "x54BB3D" "x59885E" "x5E2464" "x643424" "x718885" "x728871" "x7D7D62" "x887771" "x888659" "x98C3C6" "x98C69C" "x998293" "x9A79DC" "xA000B0" "xBA6E55" "xC6B798" "xCBC996" "xDBAE9F" "xF1DBF3" }
+    impassable = { "xA000B0" "x9A79DC" }
+    traits = { "state_trait_severe_malaria" }
+    city = "x54BB3D"
+    port = "xA000B0"
+    farm = "xA000B0"
+    mine = "x98C69C"
+    wood = "x0181B0"
+    arable_land = 10
+    arable_resources = { "building_rice_farm" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 4
+        building_whaling_station = 8
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3150
+}

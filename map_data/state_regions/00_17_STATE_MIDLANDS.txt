@@ -1,0 +1,21 @@
+﻿STATE_MIDLANDS = {
+    id = 20
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x11C2BB" "x20A0C0" "x2482B4" "x528DEE" "x6020C0" "x60E080" "x99305F" "xA021B0" "xA0A0C0" "xA220D6" "xE0E080" }
+    traits = { state_trait_black_country }
+    city = "x6020C0"
+    port = "x2482B4"
+    farm = "xA0A0C0"
+    mine = "xE0E080"
+    wood = "x528DEE"
+    arable_land = 80
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 80
+        building_iron_mine = 60
+        building_sulfur_mine = 40
+        building_logging_camp = 6
+        building_fishing_wharf = 2
+    }
+    naval_exit_id = 3027
+}

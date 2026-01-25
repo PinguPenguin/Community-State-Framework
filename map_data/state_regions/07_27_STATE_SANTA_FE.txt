@@ -1,0 +1,22 @@
+﻿STATE_SANTA_FE = {
+    id = 378
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1C57E1" "x23965B" "x257673" "x267CD3" "x26B2A8" "x274BD4" "x28A097" "x31C010" "x32AD9F" "x36A907" "x3ED92C" "x3FAAD0" "x431457" "x453036" "x455F31" "x4CF210" "x52F6AC" "x539122" "x556AD2" "x5C52A5" "x694D91" "x6A3C9B" "x704010" "x70C090" "x7177B9" "x76565D" "x7F79B5" "x839A16" "x841A8E" "x87CEFA" "x88E2D9" "x9AE49A" "xA04711" "xA131EA" "xA24B56" "xA95446" "xABCFB1" "xB00150" "xB5EF97" "xB6C8C8" "xB81311" "xB9990E" "xBA5F14" "xC69BB9" "xC91868" "xD1D600" "xDB4C3B" "xDF2294" "xE2363C" "xEE922F" "xEF1E5B" "xF04011" "xF145AE" "xF1F90D" "xF81E10" }
+    traits = { "state_trait_parana_river" "state_trait_pampas" }
+    city = "xEF1E5B"
+    port = "x704010"
+    farm = "xF81E10"
+    mine = "x23965B"
+    wood = "x3ED92C"
+    arable_land = 80
+    arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_dye_plantation" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 11
+        building_fishing_wharf = 2
+    }
+    resource = {
+        type = "building_oil_rig"
+        undiscovered_amount = 20
+    }
+    naval_exit_id = 3065
+}

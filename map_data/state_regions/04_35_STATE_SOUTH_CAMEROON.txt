@@ -1,0 +1,23 @@
+﻿STATE_SOUTH_CAMEROON = {
+    id = 240
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x09AFA8" "x0C9C74" "x12739C" "x23EF22" "x342080" "x41CFC6" "x4B1338" "x57C64A" "x58E5DA" "x5A24D5" "x6BA6FD" "x711E13" "x733140" "x8021D0" "x80692A" "x809F50" "x8AAF69" "x902089" "x9B9430" "x9BBCBB" "x9D619B" "xA1D098" "xA4D2D9" "xA6E723" "xAFC4E7" "xBA78B7" "xBCF4E2" "xC02050" "xC6087A" "xC72921" "xC9C5B7" "xCAACB2" "xCABC41" "xD0C4D5" "xE015A7" "xE321D4" "xEB43CA" "xF72F4B" }
+    traits = { "state_trait_malaria" }
+    prime_land = { "x902089" "xC02050" }
+    city = "xCAACB2"
+    port = "xC6087A"
+    farm = "x902089"
+    mine = "xA6E723"
+    wood = "x5A24D5"
+    arable_land = 70
+    arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_sugar_plantation" "building_banana_plantation" }
+    capped_resources = {
+        building_logging_camp = 30
+        building_fishing_wharf = 7
+    }
+    resource = {
+        type = "building_rubber_plantation"
+        undiscovered_amount = 24
+    }
+    naval_exit_id = 3091
+}

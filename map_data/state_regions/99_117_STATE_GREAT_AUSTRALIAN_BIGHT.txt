@@ -1,0 +1,4 @@
+﻿STATE_GREAT_AUSTRALIAN_BIGHT = {
+    id = 3121
+    provinces = { "x28FBFB" }
+}

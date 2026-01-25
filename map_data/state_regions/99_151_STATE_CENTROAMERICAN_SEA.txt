@@ -1,0 +1,4 @@
+﻿STATE_CENTROAMERICAN_SEA = {
+    id = 3155
+    provinces = { "x2BDEFC" }
+}

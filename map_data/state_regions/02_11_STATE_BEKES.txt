@@ -1,0 +1,15 @@
+﻿STATE_BEKES = {
+    id = 164
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x134D95" "x5161A0" "x5D1E04" "x9021A0" "xAF5C60" "xEAAEFA" }
+    traits = { "state_trait_pannonian_plain" }
+    city = "x5161A0"
+    farm = "xAF5C60"
+    mine = "x5D1E04"
+    wood = "x134D95"
+    arable_land = 80
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
+    capped_resources = {
+        building_logging_camp = 11
+    }
+}

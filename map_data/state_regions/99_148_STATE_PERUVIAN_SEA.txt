@@ -1,0 +1,4 @@
+﻿STATE_PERUVIAN_SEA = {
+    id = 3152
+    provinces = { "x29CACA" }
+}

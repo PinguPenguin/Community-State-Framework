@@ -1,0 +1,18 @@
+﻿STATE_UMBRIA = {
+    id = 80
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x30C021" "x6E8D07" "x72531E" "xD3A384" "xD8F07B" "xE782CC" }
+    city = "x30C021"
+    port = "xD3A384"
+    farm = "xD8F07B"
+    mine = "x6E8D07"
+    wood = "x30C021"
+    arable_land = 20
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_vineyard" }
+    capped_resources = {
+        building_iron_mine = 9
+        building_logging_camp = 7
+        building_fishing_wharf = 5
+    }
+    naval_exit_id = 3033
+}

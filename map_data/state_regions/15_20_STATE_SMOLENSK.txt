@@ -1,0 +1,16 @@
+﻿STATE_SMOLENSK = {
+    id = 137
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x03673A" "x1A2893" "x20A020" "x219D59" "x25D843" "x2EB40F" "x534355" "x5699C6" "x6100EC" "x620BE8" "x74F08E" "x87264D" "x8D6462" "x93DF31" "x95A3EA" "x9692BD" "x9BF7E1" "xA0A021" "xACF404" "xC0A060" "xC7D77B" "xD8537A" "xECBC4D" "xFBBA8C" "xFCDD8C" }
+    traits = { "state_trait_russian_forest" }
+    city = "xECBC4D"
+    farm = "xD8537A"
+    mine = "x93DF31"
+    wood = "x9692BD"
+    arable_land = 62
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_coal_mine = 8
+        building_logging_camp = 24
+    }
+}
