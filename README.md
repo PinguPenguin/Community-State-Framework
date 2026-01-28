@@ -11,7 +11,7 @@ CSF seeks to mitigate this by breaking up these large files. This means that if 
 ## Usage:
 Place this mod as high as possible in your load order! This mod will replace the entire /map_data/state_regions directory, after which any downstream mod files can be loaded back in.
 
-To modify a state region under this framework, replace the specific state region file that you intend to modify. For example, if your intent is to modify `STATE_WALES`, place a file named `00_14_STATE_WALES.txt` in your mod that contains your modifications to the `STATE_WALES` state region. Do this for every state region you intend to modify.
+To modify a state region under this framework, replace the specific state region file that you intend to modify. For example, if your intent is to modify `STATE_WALES`, place a file named `00_STATE_WALES.txt` in your mod that contains your modifications to the `STATE_WALES` state region. Do this for every state region you intend to modify.
 
 Please note that files are prefixed in a manner that reflects the base game file structure:
 - 00_west_europe.txt
