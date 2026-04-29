@@ -1,5 +1,4 @@
 ﻿STATE_BUSAN = {
-    #Yeongnam
     id = 537
     subsistence_building = "building_subsistence_rice_farm"
     provinces = { "x076864" "x305080" "x31D000" "x806A04" "x9BA8B5" "xA00BB8" "xC3F34F" }
@@ -9,12 +8,14 @@
     mine = "x806A04"
     wood = "x9BA8B5"
     arable_land = 85
-    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_silk_plantation" "building_tobacco_plantation" }
     capped_resources = {
-        building_coal_mine = 10
+        building_iron_mine = 5
+        building_coal_mine = 6
+        building_lead_mine = 12
         building_logging_camp = 7
-        building_whaling_station = 2
-        building_fishing_wharf = 7
+        building_whaling_station = 7
+        building_fishing_wharf = 11
     }
     naval_exit_id = 3058
 }
