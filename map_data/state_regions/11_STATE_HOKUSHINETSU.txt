@@ -18,6 +18,7 @@
         building_gold_mine = 3
     }
     resource = {
+        # Echigo Oil Fields (Niitsu Oil Field, etc.)
         type = "building_oil_rig"
         undiscovered_amount = 7
     }

@@ -1,4 +1,5 @@
 ﻿STATE_ELIZAVETPOL = {
+    #done
     id = 833
     subsistence_building = "building_subsistence_pasture"
     provinces = { "x0E70E4" "x2F7A57" "x404F5B" "x747318" "x809040" "x8090BF" "x80D041" "x9195D4" "xB7DDE5" "xDFB2B0" "xEE1A87" }

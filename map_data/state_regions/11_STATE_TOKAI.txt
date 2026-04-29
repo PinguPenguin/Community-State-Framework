@@ -16,6 +16,7 @@
         building_fishing_wharf = 16
     }
     resource = {
+        # Sagara Oil Field
         type = "building_oil_rig"
         undiscovered_amount = 1
     }

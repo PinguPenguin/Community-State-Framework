@@ -1,4 +1,5 @@
 ﻿STATE_TOMSK = {
+    #DONE
     id = 567
     traits = { "state_trait_western_steppe" }
     subsistence_building = "building_subsistence_farm"

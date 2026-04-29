@@ -927,6 +927,7 @@ STATE_ISTRIA = {
     }
     naval_exit_id = 3093
 }
+# adjusted based on https://ipe.ro/Country%20Report%20Montenegro.pdf
 STATE_MONTENEGRO = {
     id = 119
     subsistence_building = "building_subsistence_farm"

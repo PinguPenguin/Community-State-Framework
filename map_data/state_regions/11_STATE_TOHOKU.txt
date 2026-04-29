@@ -20,6 +20,7 @@
         building_fishing_wharf = 15
     }
     resource = {
+        # Akita Oil Fields. Oil struck in 1935, and would later become a big supplier, but production was more limited before 1936
         type = "building_oil_rig"
         undiscovered_amount = 4
     }

@@ -1,4 +1,5 @@
 ﻿STATE_SEOUL = {
+    #Gyeonggi
     id = 536
     subsistence_building = "building_subsistence_rice_farm"
     provinces = { "x03EAAF" "x305000" "x709080" "x70EFC0" "x71770E" "x7B6E17" "xA0E2EE" "xA84864" "xACB4D5" "xB05000" "xE0D3E4" "xFD1E20" }
